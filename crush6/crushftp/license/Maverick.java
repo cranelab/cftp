@@ -1,0 +1,9 @@
+package crushftp.license;
+
+import com.maverick.nio.LicenseManager;
+
+public class Maverick {
+  public static void initLicense() {
+    LicenseManager.addLicense("----BEGIN 3SP LICENSE----\r\nProduct : Maverick SSHD\r\nLicensee: Ben Spink\r\nComments: Uncategorised Project\r\nType    : Binary License\r\nCreated : 27-Jul-2013\r\n\r\n378720495925B7DBA600F3CF9CCEF4C84EE40CB4425454C8\r\nC78BD6970F41FAADF79D263966C5B3E04D1E84911F02564A\r\n568816F82C4A23737F912EF7744D6419CF6F7CB2E25F2127\r\n9F888B8E576F9BE8FF0852342AFC2AD8780D6687CE07F0B5\r\nA5B3200BCC91F15FAC447940F99EE953A66E1DDBF51FC1AA\r\nD75A5967F5A1E1A3505441CB1C73EE970C32B5F75EDA7820\r\n----END 3SP LICENSE----\r\n");
+  }
+}

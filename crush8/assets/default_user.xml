@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userfile type="properties">
+	<last_name></last_name>
+	<as2EncryptKeyAlias></as2EncryptKeyAlias>
+	<site>(SITE_PASS)(SITE_DOT)(SITE_EMAILPASSWORD)</site>
+	<file_filter></file_filter>
+	<max_download_amount_month>0</max_download_amount_month>
+	<temp_upload_ext></temp_upload_ext>
+	<default_group_command></default_group_command>
+	<allowed_protocols>ftp:0,ftps:0,sftp:0,http:0,https:0,webdav:0,</allowed_protocols>
+	<expire_password>false</expire_password>
+	<speed_limit_upload>0</speed_limit_upload>
+	<user_name>default</user_name>
+	<admin_group_name></admin_group_name>
+	<max_login_time>0</max_login_time>
+	<first_name></first_name>
+	<account_expire></account_expire>
+	<welcome_message></welcome_message>
+	<day_of_week_allow>1234567</day_of_week_allow>
+	<auto_set_pass>false</auto_set_pass>
+	<allow_user_shares>false</allow_user_shares>
+	<logins_ip_auto_kick>false</logins_ip_auto_kick>
+	<max_upload_amount_day>0</max_upload_amount_day>
+	<parent_quota_dir></parent_quota_dir>
+	<default_privs_command></default_privs_command>
+	<as2EncryptKeystorePassword></as2EncryptKeystorePassword>
+	<timezone_offset>0</timezone_offset>
+	<partial_download>false</partial_download>
+	<hours_of_day>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23</hours_of_day>
+	<WebServerSSI>false</WebServerSSI>
+	<email></email>
+	<as2EncryptKeystorePath></as2EncryptKeystorePath>
+	<publickey_password>false</publickey_password>
+	<tunnels></tunnels>
+	<max_upload_amount_month>0</max_upload_amount_month>
+	<max_idle_time>10</max_idle_time>
+	<speed_limit_download>0</speed_limit_download>
+	<default_owner_command></default_owner_command>
+	<ssh_public_keys></ssh_public_keys>
+	<min_download_speed>0</min_download_speed>
+	<max_logins_ip>0</max_logins_ip>
+	<as3_allowed>false</as3_allowed>
+	<default_folder_privs_command></default_folder_privs_command>
+	<password></password>
+	<web_buttons type="vector">
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(custom):Create Folder</key>
+			<value>javascript:performAction('createFolder');</value>
+			<requiredPriv></requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(download):Download</key>
+			<value>javascript:performAction('download');</value>
+			<requiredPriv>(read)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>false</forMenu>
+			<key>(zip):ZipDownload</key>
+			<value>javascript:performAction("zip");</value>
+			<requiredPriv>(zip)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>false</forMenu>
+			<key>(download):Advanced Download</key>
+			<value>javascript:performAction('quickAdvancedDownload');</value>
+			<requiredPriv>(read)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>false</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(options):User Options</key>
+			<value>javascript:performAction('userOptions');</value>
+			<requiredPriv></requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>false</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(search):Search</key>
+			<value>javascript:performAction('search');</value>
+			<requiredPriv>(view)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(paste):Paste</key>
+			<value>javascript:performAction('paste');</value>
+			<requiredPriv>(write)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>false</forMenu>
+			<key>(copy):Copy</key>
+			<value>javascript:doCopy();</value>
+			<requiredPriv>(read)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>false</forMenu>
+			<key>(cut):Cut</key>
+			<value>javascript:performAction('cut');</value>
+			<requiredPriv>(rename)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>false</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(upload):Upload</key>
+			<value>javascript:performAction('upload');</value>
+			<requiredPriv>(write)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(rename):Rename</key>
+			<value>javascript:performAction('rename');</value>
+			<requiredPriv>(rename)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(delete):Delete</key>
+			<value>javascript:performAction('delete');</value>
+			<requiredPriv>(delete)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(share):Share</key>
+			<value>javascript:performAction('share');</value>
+			<requiredPriv>(share)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(addbasket):Add To Basket</key>
+			<value>javascript:performAction('addToBasket');</value>
+			<requiredPriv>(read)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(showbasket):Show Basket</key>
+			<value>javascript:performAction('showBasket');</value>
+			<requiredPriv></requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>false</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(slideshow):Slideshow</key>
+			<value>javascript:performAction('slideshow');</value>
+			<requiredPriv>(slideshow)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>false</forMenu>
+			<key>(updateKeywords):Edit Keywords</key>
+			<value>javascript:performAction('updateKeywords');</value>
+			<requiredPriv></requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>false</forMenu>
+			<key>(slideshow):QuickView</key>
+			<value>javascript:performAction('quickView');</value>
+			<requiredPriv>(slideshow)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>false</forMenu>
+			<key>(slideshow):Preview</key>
+			<value>javascript:performAction("Preview");</value>
+			<requiredPriv>(slideshow)</requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>true</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(login):Login</key>
+			<value>/WebInterface/login.html</value>
+			<requiredPriv></requiredPriv>
+		</web_buttons_subitem>
+		<web_buttons_subitem type="properties">
+			<forContextMenu>false</forContextMenu>
+			<forMenu>true</forMenu>
+			<key>(logout):Logout</key>
+			<value>javascript:doLogout();</value>
+			<requiredPriv></requiredPriv>
+		</web_buttons_subitem>
+	</web_buttons>
+	<WebServerMode>false</WebServerMode>
+	<DisallowListingDirectories>false</DisallowListingDirectories>
+	<root_dir>/</root_dir>
+	<char_encoding>UTF-8</char_encoding>
+	<expire_password_days>30</expire_password_days>
+	<ratio>0</ratio>
+	<userVersion>6</userVersion>
+	<ignore_max_logins>false</ignore_max_logins>
+	<css></css>
+	<max_upload_size>0</max_upload_size>
+	<as2EncryptKeystoreFormat>JKS</as2EncryptKeystoreFormat>
+	<max_download_amount>0</max_download_amount>
+	<require_encryption>false</require_encryption>
+	<vfs_modified>0</vfs_modified>
+	<notes></notes>
+	<account_expire_delete>false</account_expire_delete>
+	<account_expire_rolling_days></account_expire_rolling_days>
+	<max_upload_amount>0</max_upload_amount>
+	<version>1.0</version>
+	<as2EncryptKeyPassword></as2EncryptKeyPassword>
+	<max_download_amount_day>0</max_download_amount_day>
+	<javascript></javascript>
+	<max_logins>0</max_logins>
+	<block_access></block_access>
+	<ip_restrictions type="vector">
+		<ip_restrictions_subitem type="properties">
+			<start_ip>0.0.0.0</start_ip>
+			<type>A</type>
+			<stop_ip>255.255.255.255</stop_ip>
+		</ip_restrictions_subitem>
+	</ip_restrictions>
+	<ratio_field_permanent>false</ratio_field_permanent>
+</userfile>
+

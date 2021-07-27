@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations type="properties">
+	<item name="Abort, losing all changes made.">Abort, losing all changes made.</item>
+	<item name="%RETR-ratio will be exceeded abort%">Transfer aborted!</item>
+	<item name="Please Note!">Please Note!</item>
+	<item name="Deny FXP?">Deny FXP?</item>
+	<Sat>Sat</Sat>
+	<item name="Current Location">Current Location</item>
+	<READ>READ</READ>
+	<item name="(Download) Starts With">(Download) Starts With</item>
+	<item name="Delete Selected Item?">Delete Selected Item?</item>
+	<disconnects>disconnects</disconnects>
+	<item name="Overall Speed">Overall Speed</item>
+	<Paused>Paused</Paused>
+	<item name="Inheritance Linking">Inheritance Linking</item>
+	<item name="Auto delete the account also?">Auto delete the account also?</item>
+	<item name="%STOR-start%">Opening %user_file_transfer_mode% mode data connection.  Ready to write file %user_the_command_data%.</item>
+	<item name="$FINISHED_IMPORT_SERVE_U_TEXT">Usernames and dir structures have been imported.
+Passwords are all set to be saved based on the next password used for a login.
+This could be a security concern for you...if so, assign them manually.</item>
+	<item name="$VFS_SETTINGS_HAVE_BEEN_INHERITED_TEXT">VFS settings have been inherited.&lt;br&gt;&lt;br&gt;You must edit the master user to affect this user.</item>
+	<Resume>Resume</Resume>
+	<item name="Ratio is">Ratio is</item>
+	<item name="Start, End, and Usernames have no affect on this report as its reporting on current information in memory.">Start, End, and Usernames have no affect on this report as its reporting on current information in memory.</item>
+	<item name="Header Background Color">Header Background Color</item>
+	<Customizations>Customizations</Customizations>
+	<item name="Default 'group' of settings files:">Default 'group' of settings files:</item>
+	<web_loc_loading_admin>Loading Remote Administration%0D%0A%0D%0APlease wait while the CrushFTP.jar is downloaded and loaded...%0D%0AThis may take a few minutes as the file is around 5Mb.</web_loc_loading_admin>
+	<item name="From Location">From Location</item>
+	<item name="Last 180 Days">Last 180 Days</item>
+	<item name="command:">command:</item>
+	<item name="Default 'group' to set group to:">Default 'group' to set group to:</item>
+	<item name="Name:">Name:</item>
+	<item name="Max attempts (Failed commands from the same user.)">Max attempts (Failed commands from the same user.)</item>
+	<item name="Directory Listings">Directory Listings</item>
+	<item name="Bytes Sent">Bytes Sent</item>
+	<item name="%max_max_users_server%">User access not allowed.  Max user limit reached for server.  (Server must upgrade for more users.)</item>
+	<Reset>Reset</Reset>
+	<item name="Track how many different uploaded files per username:">Track how many different uploaded files per username:</item>
+	<item name="IP Restrictions">IP Restrictions</item>
+	<item name="Please enter a stopping IP:">Please enter a stopping IP:</item>
+	<item name="Inherit All Settings?">Inherit All Settings?</item>
+	<item name="Pick a file to be used for this users WebInterface.">Pick a file to be used for this users WebInterface.</item>
+	<web_loc_no_items_selected_for_download>You have not selected any items to download.</web_loc_no_items_selected_for_download>
+	<item name="Enter number of text rows for this entry:">Enter number of text rows for this entry:</item>
+	<Admin>Admin</Admin>
+	<item name="Reset Login Counts (total, successful, failed).">Reset Login Counts (total, successful, failed).</item>
+	<item name="There are">There are</item>
+	<item name="Number of files to track.  Too many and you'll run out of memory.">Number of files to track.  Too many and you'll run out of memory.</item>
+	<item name="Upload Upload Start Text">Upload Upload Start Text</item>
+	<Remove>Remove</Remove>
+	<Server>Server</Server>
+	<Close>Close</Close>
+	<item name="Path Text Style">Path Text Style</item>
+	<Duplicate>Duplicate</Duplicate>
+	<item name="%CWD%">"%user_current_dir%" CWD command successful.</item>
+	<item name="Local files/directories.">Local files/directories.</item>
+	<Filename>Filename</Filename>
+	<item name="This will be ignored if the above checkbox is enabled.">This will be ignored if the above checkbox is enabled.</item>
+	<item name="%SITE REPORT_GET_LOG-good%">Log loaded into memory.</item>
+	<item name="Show after every login.">Show after every login.</item>
+	<item name="Replaces %user_email% variable below when email is sent.">Replaces %user_email% variable below when email is sent.</item>
+	<item name="Total Bytes in/out">Total Bytes in/out</item>
+	<item name="NOT set to inherit this setting.">NOT set to inherit this setting.</item>
+	<item name="Migrate user's data folders from one HD to another...">Migrate user's data folders from one HD to another...</item>
+	<New>New</New>
+	<item name="System beep will be sounded upon every user connection attempt.">System beep will be sounded upon every user connection attempt.</item>
+	<disconnect.>disconnect.</disconnect.>
+	<item name="%LIST-bad_pasv_guess%">Wups!  I didn't anticipate that command, and due to your PASV command, and server configuration, I needed to.  Please try the listing again.</item>
+	<item name="%msg_reply_how_to%">To reply...issue command NOOP then a space, then a message.</item>
+	<item name="%SITE_HELP%">HELP VERSION PASS USERS KICK KICKBAN QUIT</item>
+	<item name="Max Idle Time:">Max Idle Time:</item>
+	<item name="User Disconnected">User Disconnected</item>
+	<item name="End of list">End of list</item>
+	<item name="Use OS command 'ls -la' for directory listings (OSX, Unix, Linux)">Use OS command 'ls -la' for directory listings (OSX, Unix, Linux)</item>
+	<item name="Upload Form">Upload Form</item>
+	<item name="Auto kick oldest session if exceeded?">Auto kick oldest session if exceeded?</item>
+	<Edit>Edit</Edit>
+	<item name="There are no properties for this item.">There are no properties for this item.</item>
+	<item name="You are up to date, do you want to re-download the current version?">You are up to date, do you want to re-download the current version?</item>
+	<item name="do this event.">do this event.</item>
+	<item name="mm/dd/yyyy hh:mm am/pm format  Example:01/01/2006 12:00 AM">mm/dd/yyyy hh:mm am/pm format  Example:01/01/2006 12:00 AM</item>
+	<web_loc_archive>Archive</web_loc_archive>
+	<Upload>Upload</Upload>
+	<item name="not have access to it.  This listing is">not have access to it.  This listing is</item>
+	<item name="Select a user to load settings from.">Select a user to load settings from.</item>
+	<item name="Date ranges do not apply to this report.">Date ranges do not apply to this report.</item>
+	<item name="%STOR-quota exceeded%">Transfer Aborted!</item>
+	<item name="%server_font%">Arial</item>
+	<item name="(Upload) Starts With">(Upload) Starts With</item>
+	<item name="Last 90 Days">Last 90 Days</item>
+	<item name="Do event after they">Do event after they</item>
+	<item name="Current Directory">Current Directory</item>
+	<item name="Default 'owner' of settings files:">Default 'owner' of settings files:</item>
+	<item name="Can create dirs.">Can create dirs.</item>
+	<item name="Server to Monitor / Control">Server to Monitor / Control</item>
+	<item name="set to inherit this setting.">set to inherit this setting.</item>
+	<item name="Maximum Concurrent Connections">Maximum Concurrent Connections</item>
+	<item name="Transfer failed">Transfer failed</item>
+	<item name="Enter Registration Code">Enter Registration Code</item>
+	<item name="Rename Event">Rename Event</item>
+	<item name="Disable Rename Column">Disable Rename Column</item>
+	<View>View</View>
+	<item name="Pick a certificate to be used for SSL connections.">Pick a certificate to be used for SSL connections.</item>
+	<item name="Duplicate user.">Duplicate user.</item>
+	<item name="Main Background Color">Main Background Color</item>
+	<URL>URL</URL>
+	<item name="Show Downloads">Show Downloads</item>
+	<item name="Track how many logins.&#x9;Too many and it will take forever to launch and quit CrushFTP.">Track how many logins.	Too many and it will take forever to launch and quit CrushFTP.</item>
+	<web_loc_contains>contains</web_loc_contains>
+	<item name="List how many uploaded files">List how many uploaded files</item>
+	<item name="Add a IP restriction.">Add a IP restriction.</item>
+	<item name="List Text Color">List Text Color</item>
+	<Delete...>Delete...</Delete...>
+	<item name="Show Upload Form Info (if available)">Show Upload Form Info (if available)</item>
+	<item name="Pick a backup to use:">Pick a backup to use:</item>
+	<item name="Number of backups to keep of user manager changes.">Number of backups to keep of user manager changes.</item>
+	<item name="Modify a restriction...">Modify a restriction...</item>
+	<KICKED>KICKED</KICKED>
+	<Checkbox>Checkbox</Checkbox>
+	<item name="Default privs for new VFS items in User Manager :">Default privs for new VFS items in User Manager :</item>
+	<item name="%STOR-file_previously_uploaded%">File has been previously uploaded, and is still in the history.  Access denied!</item>
+	<web_loc_current_password>Current Password :</web_loc_current_password>
+	<item name="%CWD-bad%">Access not allowed.</item>
+	<item name="%RETR-end%">Transfer complete. CRC32=%user_sfv%</item>
+	<days.>days.</days.>
+	<item name="%SITE_PASS%">PASS: Issue SITE PASS &lt;new password&gt;, then issue SITE PASS &lt;confirm password&gt;.</item>
+	<item name="User Info">User Info</item>
+	<item name="Loading Users &amp; Groups...">Loading Users &amp; Groups...</item>
+	<item name="Virtual Remove">Virtual Remove</item>
+	<item name="download from below dir.">download from below dir.</item>
+	<item name="MacBinary Decoding Failed!  libMacOSXForkerIO.jnilib not found in CrushFTP folder.">MacBinary Decoding Failed!  libMacOSXForkerIO.jnilib not found in CrushFTP folder.</item>
+	<item name="Loading Preferences &amp; Statistics...">Loading Preferences &amp; Statistics...</item>
+	<Log>Log</Log>
+	<web_loc_uploading>Uploading...</web_loc_uploading>
+	<item name="%SITE_KICKBAN%">KICKBAN: Kick and ban a single user...case sensitive.  Use the exact username string from SITE USERS.</item>
+	<item name="Discovers your current IP and uses it.">Discovers your current IP and uses it.</item>
+	<item name="Browser Upload Window Text">Browser Upload Window Text</item>
+	<item name="%QUIT%">Goodbye.</item>
+	<item name="$SNAPSHOT_FAILED_MESSAGE_TEXT">Snapshot failed.
+	
+Have you configured a report under the setup tab?
+A snapshot is taken of the current configuration in the setup tab.</item>
+	<web_loc_upload_took>Upload took</web_loc_upload_took>
+	<item name="%STOR-sfv_file_missing_filename%">The .sfv file in this dir is missing the filename you attempted to upload!</item>
+	<item name="Leave blank to use the default template.">Leave blank to use the default template.</item>
+	<Done.>Done.</Done.>
+	<item name="Explicit TLSv1 (FTPS)">Explicit TLSv1 (FTPS)</item>
+	<item name="Popup Border Color">Popup Border Color</item>
+	<item name="Please enter a starting IP:">Please enter a starting IP:</item>
+	<Graphs>Graphs</Graphs>
+	<item name="Insert before/after selection?">Insert before/after selection?</item>
+	<item name="Select a plugin to run :">Select a plugin to run :</item>
+	<item name="%account_expired%">Your account is expired.  Access denied.</item>
+	<Encryption>Encryption</Encryption>
+	<item name="When a user">When a user</item>
+	<item name="$FINISHED_IMPORT_OSX_TEXT">Usernames and dir structures have been imported.
+Passwords are all set to be saved based on the next password used for a login.
+This could be a security concern for you...if so, assign them manually.</item>
+	<item name="Current Speed">Current Speed</item>
+	<item name="Done!">Done!</item>
+	<item name="Welcome Message:">Welcome Message:</item>
+	<item name="Move rule up in the order.">Move rule up in the order.</item>
+	<item name="To make a group, just drag any user onto another user and it will become a group.">To make a group, just drag any user onto another user and it will become a group.</item>
+	<item name="(Download) Contains">(Download) Contains</item>
+	<item name="%SITE_PASS-first%">Please issue SITE PASS again to verify your new password...or a different password to cancel.</item>
+	<item name="Copy Event">Copy Event</item>
+	<Create...>Create...</Create...>
+	<item name="Remove the currently selected item.">Remove the currently selected item.</item>
+	<item name="$SELECT_ITEM_FIRST_MESSAGE_TEXT">You must select an item in the users stuff first.
+Then click on the checkboxes to setup permissions.</item>
+	<item name="interactive so you can simulate what the user will see.">interactive so you can simulate what the user will see.</item>
+	<item name="Quit?">Quit?</item>
+	<item name="Enter keystorepass (VISIBLE ON SCREEN!!!).">Enter keystorepass (VISIBLE ON SCREEN!!!).</item>
+	<item name="k/sec.">k/sec.</item>
+	<item name="%STOR-bad%">Access not allowed.&lt;SPEAK&gt;%user_name% tried to violate upload priviledges.&lt;/SPEAK&gt;</item>
+	<Restrictions>Restrictions</Restrictions>
+	<item name="Variables / Templates :">Variables / Templates :</item>
+	<web_loc_size_is>Size is</web_loc_size_is>
+	<item name="Modified Column Text">Modified Column Text</item>
+	<item name="Duplicate an email event.">Duplicate an email event.</item>
+	<web_loc_type_is_a>Type is a</web_loc_type_is_a>
+	<web_loc_additional_info_contains>Additional info contains :</web_loc_additional_info_contains>
+	<item name="Passive port range:">Passive port range:</item>
+	<item name="Incoming Speed">Incoming Speed</item>
+	<item name="Track how many ips per user:">Track how many ips per user:</item>
+	<item name="Port in use by some other server : $0">Port in use by some other server : $0</item>
+	<item name="Clear any privs for this item and revert it back to inheriting.">Clear any privs for this item and revert it back to inheriting.</item>
+	<item name="%CHMOD-bad%">Access Denied.&lt;SPEAK&gt;%user_name% failed to change file permissions on a file.&lt;/SPEAK&gt;</item>
+	<item name="Keypass :">Keypass :</item>
+	<item name="Please enter a name for this event:">Please enter a name for this event:</item>
+	<item name="CrushFTP User IPs">CrushFTP User IPs</item>
+	<item name="$ERROR_NO_FTP_HTTP_SERVERS_FOUND_TEXT">It does not appear that you have any HTTP, HTTPS,
+or FTP server items listed in your preferences.
+To run as a service, you must have at least one
+of these enabled.</item>
+	<item name="This will add it to the user's virtual file system.">This will add it to the user's virtual file system.</item>
+	<item name="Attach Sound...">Attach Sound...</item>
+	<web_loc_name>Name</web_loc_name>
+	<item name="URL representation of this item.">URL representation of this item.</item>
+	<item name="Enable Log Rolling">Enable Log Rolling</item>
+	<item name="%CHMOD-good%">CHMOD successful.</item>
+	<item name="Slightly faster, but some browsers can't do it.">Slightly faster, but some browsers can't do it.</item>
+	<web_loc_delete_folder_and_contents>You have selected to delete a folder.%0D%0AThe folder and its contents will be deleted!%0D%0A%0D%0AAre you sure you want to delete this folder?</web_loc_delete_folder_and_contents>
+	<Value>Value</Value>
+	<item name="Move Up">Move Up</item>
+	<item name="Auto set on next login.">Auto set on next login.</item>
+	<item name="MacBinary Decoding Successful">MacBinary Decoding Successful</item>
+	<Label>Label</Label>
+	<item name="Entering Passive Mode">Entering Passive Mode</item>
+	<item name="$WEB_VIRTUAL_DOMAINS_MESSAGE_TEXT">A virtual domain is where multiple domains point to the same computer and server, but based on the domain the user used, you want them to see different results.  For example, www.benspink.com and www.crushftp.com both point to my same machine.  However I can set www.benspink.com to display something completely different than www.crushftp.com if I choose to.</item>
+	<item name="This IP will be used for any servers listed as manul.">This IP will be used for any servers listed as manul.</item>
+	<item name="%DELE-bad%">Access not allowed.&lt;SPEAK&gt;%user_name% tried to delete a protected file.&lt;/SPEAK&gt;</item>
+	<item name="User Manager">User Manager</item>
+	<item name="$MULTIPLE_WEB_DOMAINS_MESSAGE_TEXT">Multiple domains pointed at this one machine?  Make specific login pages styled to fit each domain so your customers get the styled page you want them to see.  You may also use this to alter the default login page users will see.  Don't use the default "login.html" as its a file CrushFTP owns and will update it with each new release.  So make your own file and point the login at it.</item>
+	<item name="end encodings supported">end encodings supported</item>
+	<item name="Delete Event">Delete Event</item>
+	<item name="Unregistered CrushFTP Server">Unregistered CrushFTP Server</item>
+	<item name="Save Current User...">Save Current User...</item>
+	<Setup...>Setup...</Setup...>
+	<item name="Remove selected scheduled report item.">Remove selected scheduled report item.</item>
+	<item name="Invalid amount '$0'.">Invalid amount '$0'.</item>
+	<item name="%bad_ip%">Your IP is not allowed to connect for this user.</item>
+	<item name="Enter Registration Name">Enter Registration Name</item>
+	<FILE>FILE</FILE>
+	<item name="Save?">Save?</item>
+	<item name="%SITE_PASS-good%">Password changed. New pass = '%user_new_pass2%'.</item>
+	<item name="Save reports to">Save reports to</item>
+	<item name="%RETR-speed%">Download File Size:%user_file_length% bytes @ %user_overall_transfer_speed%K/sec.</item>
+	<item name="Transfer speed is less than minimum required after at least 10 seconds">Transfer speed is less than minimum required after at least 10 seconds</item>
+	<item name="There are also additional options available">There are also additional options available</item>
+	<item name="Errors and Exceptions">Errors and Exceptions</item>
+	<item name="Size of Current File">Size of Current File</item>
+	<item name="%STAT-end%">End of Status</item>
+	<user>user</user>
+	<item name="Logging in">Logging in</item>
+	<item name="User Delay Kicked">User Delay Kicked</item>
+	<item name="(if selected, all event settings are inherited)">(if selected, all event settings are inherited)</item>
+	<item name="Import CrushFTP3 Users...">Import CrushFTP3 Users...</item>
+	<item name="Set Macbinary encoding to start enabled.">Set Macbinary encoding to start enabled.</item>
+	<item name="$CUT_COPY_PASTE_TEXT">You must use the shortcut key.
+The menu item will not work.
+(CMD-X for OS X, CTR-X for OS 9)</item>
+	<item name="Restore all users from backup...">Restore all users from backup...</item>
+	<item name="MacOS X / Linux / Unix">MacOS X / Linux / Unix</item>
+	<item name="report name">report name</item>
+	<item name="Deny reserved ports?">Deny reserved ports?</item>
+	<item name="Reset all the below stats.">Reset all the below stats.</item>
+	<item name="Use User &amp; Groups from:">Use User &amp; Groups from:</item>
+	<item name="%RMD%">"%user_the_command_data%" deleted.</item>
+	<item name="Show Counts">Show Counts</item>
+	<item name="Enter text label for this entry:">Enter text label for this entry:</item>
+	<item name="%RETR-ratio will be exceeded%">WARNING!!! Ratio will be exceeded! (partial downloads are off)</item>
+	<Apply>Apply</Apply>
+	<web_loc_no_user_options_available>Sorry, no user options are enabled for your user.</web_loc_no_user_options_available>
+	<web_loc_path>Path:</web_loc_path>
+	<item name="Import WebStar Users...">Import WebStar Users...</item>
+	<Name>Name</Name>
+	<item name="Start Date">Start Date</item>
+	<item name="Filter listings that are blocked in various ways.">Filter listings that are blocked in various ways.</item>
+	<item name="%user_list_display_string%">%user_paused%(%user_number%) %user_name% - %user_ip%  *%user_last_action%*@ %user_overall_transfer_speed%K/sec (%user_time_remaining%)</item>
+	<item name="Edit User...">Edit User...</item>
+	<pass>pass</pass>
+	<item name="Edit Upload Bytes">Edit Upload Bytes</item>
+	<web_loc_change_password>Change Password</web_loc_change_password>
+	<item name="CrushFTP Started">CrushFTP Started</item>
+	<item name="%RNFR-not found%">File not found.</item>
+	<item name="List Text Size">List Text Size</item>
+	<PORT>PORT</PORT>
+	<item name="Use ftp://serverIP/ to access.">Use ftp://serverIP/ to access.</item>
+	<item name="List Item Hover Color">List Item Hover Color</item>
+	<item name="Reset the current download amount per day for this user.">Reset the current download amount per day for this user.</item>
+	<item name="Import Folders As Users...">Import Folders As Users...</item>
+	<item name="Report Saved">Report Saved</item>
+	<item name="Copy an email event from another user.">Copy an email event from another user.</item>
+	<item name="seconds, then banned for">seconds, then banned for</item>
+	<item name="%DELE-error%">"%user_the_command_data%" deletion failed. (Item not empty, or in use.)</item>
+	<item name="Edit Entry">Edit Entry</item>
+	<uploads>uploads</uploads>
+	<item name="Save All Changes Made">Save All Changes Made</item>
+	<item name="Reset Server Stats...">Reset Server Stats...</item>
+	<item name="%user_name% has uploaded %user_session_upload_count% files.">%user_name% has uploaded %user_session_upload_count% files.</item>
+	<item name="SSH FTP (SFTP://)">SSH FTP (SFTP://)</item>
+	<item name="Pick a sound to be played when this user connects.">Pick a sound to be played when this user connects.</item>
+	<item name="Outgoing Speed">Outgoing Speed</item>
+	<item name="supported transport protocols">supported transport protocols</item>
+	<item name="Manage Remote Servers">Manage Remote Servers</item>
+	<Add>Add</Add>
+	<item name="Are you sure you want to stop all servers?">Are you sure you want to stop all servers?</item>
+	<item name="%RETR-CRC_good%">The CRC32 for this file matches the entry in the .sfv.  This file is complete.</item>
+	<item name="Bytes Up / Bytes Down Stats">Bytes Up / Bytes Down Stats</item>
+	<item name="%LIST-bad%">Access not allowed.</item>
+	<User>User</User>
+	<item name="Custom Forms">Custom Forms</item>
+	<item name="Can rename/move files/dirs.">Can rename/move files/dirs.</item>
+	<item name="Max Download">Max Download</item>
+	<item name="Log to Disk">Log to Disk</item>
+	<item name="%SITE_KICK%">KICK: Kick a single user...case sensitive.  Use the exact username string from SITE USERS.</item>
+	<Info>Info</Info>
+	<item name="$CONFIGURE_ADMIN_USER_TEXT">No admin user was found in your UserManager.
+Please configure a user to have admin rights in the user manager first.</item>
+	<item name="(Upload) Ends With">(Upload) Ends With</item>
+	<Thu>Thu</Thu>
+	<web_loc_min>min</web_loc_min>
+	<Path>Path</Path>
+	<item name="Entering Extended Passive Mode">Entering Extended Passive Mode</item>
+	<item name="ReverseProxy Path:">ReverseProxy Path:</item>
+	<item name="Reset the current download amount per month for this user.">Reset the current download amount per month for this user.</item>
+	<item name="Number of files to track.&#x9;Too many and you'll run out of memory.">Number of files to track.	Too many and you'll run out of memory.</item>
+	<item name="List how many downloaded files">List how many downloaded files</item>
+	<item name="%RNFR%">File exists, ready for new name.</item>
+	<item name="Right click for menu, drag and drop to add file / folder.">Right click for menu, drag and drop to add file / folder.</item>
+	<item name="Disable Delete Column">Disable Delete Column</item>
+	<item name="Login Time">Login Time</item>
+	<item name="Are you sure you want to permanently delete the selected user(s)?">Are you sure you want to permanently delete the selected user(s)?</item>
+	<item name="Link to which servers users &amp; groups: (ex. link HTTP server to FTP users.)">Link to which servers users &amp; groups: (ex. link HTTP server to FTP users.)</item>
+	<Pass>Pass</Pass>
+	<item name="$INHERIT_ALL_SETTINGS_WARNING_TEXT">Do you want the selected users to inherit all settings from the group?
+If not, click no and you can individually set the inheritance.</item>
+	<item name="Makes item inaccessible to user. (Does not delete it.)">Makes item inaccessible to user. (Does not delete it.)</item>
+	<item name="Body:">Body:</item>
+	<Initializing...>Initializing...</Initializing...>
+	<ERROR>ERROR</ERROR>
+	<item name="Save the changes to this variable.">Save the changes to this variable.</item>
+	<item name="upload in any dir.">upload in any dir.</item>
+	<item name="Start Dir:">Start Dir:</item>
+	<item name="encodings supported">encodings supported</item>
+	<item name="%PORT-reserved%">PORT command not allowed. %user_port_remote_port% is a reserved port.</item>
+	<item name="Some FTP clients and web browsers will show a list of servers on the local network that have announced themselves.  It saves needing to remember an IP.">Some FTP clients and web browsers will show a list of servers on the local network that have announced themselves.  It saves needing to remember an IP.</item>
+	<item name="SMTP settings have been moved to the server preferences.  You now set them once, and they are used globally.  Your current settings will remain in effect until you set a value in the server preferences.">SMTP settings have been moved to the server preferences.  You now set them once, and they are used globally.  Your current settings will remain in effect until you set a value in the server preferences.</item>
+	<Status>Status</Status>
+	<Failed>Failed</Failed>
+	<item name="Tooltip Background Color">Tooltip Background Color</item>
+	<item name="Stop All Servers">Stop All Servers</item>
+	<item name="Quick Set">Quick Set</item>
+	<item name="Default owner :">Default owner :</item>
+	<Allow>Allow</Allow>
+	<item name="Permanent Ratio?">Permanent Ratio?</item>
+	<item name="Always do transfers in BINARY?">Always do transfers in BINARY?</item>
+	<item name="Registration Information">Registration Information</item>
+	<item name="$0 is running, $1 users connected. Connections Processed : $2">$0 is running, $1 users connected. Connections Processed : $2</item>
+	<item name="Footer Text Size">Footer Text Size</item>
+	<item name="Attempting to download">Attempting to download</item>
+	<item name="Hammering Connection Settings :">Hammering Connection Settings :</item>
+	<web_loc_after>after</web_loc_after>
+	<item name="QUIT : Allows shutdown of server.">QUIT : Allows shutdown of server.</item>
+	<item name="Web Access SSL (HTTPS://) (This is also WebDAV.)">Web Access SSL (HTTPS://) (This is also WebDAV.)</item>
+	<web_loc_kilobytes>Kilobytes</web_loc_kilobytes>
+	<item name="Default permissions to set file to:">Default permissions to set file to:</item>
+	<item name="Always do the event.">Always do the event.</item>
+	<item name="List Header Text Color">List Header Text Color</item>
+	<item name="Filename Filters (blocks matching names)">Filename Filters (blocks matching names)</item>
+	<item name="Bypass queue">Bypass queue</item>
+	<web_loc_no_items_to_delete>You have not selected any items to delete.</web_loc_no_items_to_delete>
+	<item name="Name :">Name :</item>
+	<web_loc_create_folder>Create Folder</web_loc_create_folder>
+	<item name="Enter User Name">Enter User Name</item>
+	<item name="Auto IP lookup failure (could not reach server)!">Auto IP lookup failure (could not reach server)!</item>
+	<item name="Login Session Only">Login Session Only</item>
+	<item name="(in K, 0=infinite)">(in K, 0=infinite)</item>
+	<item name="Default owner for uploaded files. (If ftp username is invalid.)">Default owner for uploaded files. (If ftp username is invalid.)</item>
+	<item name="Server's Files">Server's Files</item>
+	<item name="Double Click to Edit Format">Double Click to Edit Format</item>
+	<item name="%account_expired_deleted%">Your account is expired and has just been deleted.  Access denied.</item>
+	<Refresh>Refresh</Refresh>
+	<item name="$FINISHED_IMPORT_FOLDERS_TEXT">Usernames and dir structures have been imported.
+Passwords are all set to be saved based on the next password used for a login.
+This could be a security concern for you...if so, assign them manually.</item>
+	<item name="Move rule down in the order.">Move rule down in the order.</item>
+	<item name="Path:">Path:</item>
+	<item name="Create new group.">Create new group.</item>
+	<item name="For ratios and max download amount settings.">For ratios and max download amount settings.</item>
+	<item name="Edit a login page for a specific domain.">Edit a login page for a specific domain.</item>
+	<item name="Remove this event from the list.">Remove this event from the list.</item>
+	<item name="Require Encryption">Require Encryption</item>
+	<item name="Hour and Minute">Hour and Minute</item>
+	<item name="PBSZ command OK.  Using buffer size set to">PBSZ command OK.  Using buffer size set to</item>
+	<item name="%RNTO-bad%">Access not allowed.</item>
+	<item name="Please enter the domain. (Pattern matching is allowed such as *.crushftp.com)">Please enter the domain. (Pattern matching is allowed such as *.crushftp.com)</item>
+	<item name="%STOR-queue_full%">Server upload queue is full.  Try again later.</item>
+	<item name="Server Window Log Buffer">Server Window Log Buffer</item>
+	<web_loc_equals>equals</web_loc_equals>
+	<item name="%RETR-ratio exceeded%">WARNING!!! Your ratio has been exceeded.  Download aborted.</item>
+	<item name="Run Report">Run Report</item>
+	<item name="Show File Paths">Show File Paths</item>
+	<item name="In minutes.  Zero means infinite.">In minutes.  Zero means infinite.</item>
+	<item name="From Location:">From Location:</item>
+	<item name="week(s) on">week(s) on</item>
+	<item name="Generates a private unsigned key for testing use.">Generates a private unsigned key for testing use.</item>
+	<item name="Rename an email event.">Rename an email event.</item>
+	<item name="Reported Bonjour Name :">Reported Bonjour Name :</item>
+	<item name="Disable Size Column">Disable Size Column</item>
+	<item name="This server requires encryption.">This server requires encryption.</item>
+	<item name="%STOR-stealing_upload%">The file you attempted to upload was started by someone else.  You are not allowed to resume this transfer.</item>
+	<item name="%server_font_size%">10</item>
+	<item name="Link Event">Link Event</item>
+	<item name="Bypass queue setting and let transfer start instantly.">Bypass queue setting and let transfer start instantly.</item>
+	<item name="%PASS-bad%">Access denied.</item>
+	<item name="Add New Login Page">Add New Login Page</item>
+	<item name="IDLE TIMEOUT">IDLE TIMEOUT</item>
+	<item name="Import ProFTPD Users...">Import ProFTPD Users...</item>
+	<RECEIVE>RECEIVE</RECEIVE>
+	<item name="Hide the splash screen at startup.">Hide the splash screen at startup.</item>
+	<item name="Last 14 Days">Last 14 Days</item>
+	<item name="Add a new event.">Add a new event.</item>
+	<Disconnected>Disconnected</Disconnected>
+	<item name="Free Ratio">Free Ratio</item>
+	<item name="pick the folder">pick the folder</item>
+	<item name="Enter a company name.">Enter a company name.</item>
+	<item name="Quickly set an expiration in x hours from now.">Quickly set an expiration in x hours from now.</item>
+	<item name="Maximum of">Maximum of</item>
+	<item name="Path to Current File">Path to Current File</item>
+	<item name="Please enter a Kilobyte amount(just a number, no label):">Please enter a Kilobyte amount(just a number, no label):</item>
+	<SEND>SEND</SEND>
+	<item name="Choose a server to import the users into">Choose a server to import the users into</item>
+	<item name="%RMD-bad%">Access not allowed.&lt;SPEAK&gt;%user_name% tried to delete a protected directory.&lt;/SPEAK&gt;</item>
+	<item name="$miniURL_description_text">A mini URL is a secure URL you can send to clients.  It allows an end user to access a specific file, or folder without needing to login.  It does not include the username or password as part of the URL.  When a user uses the URL, it allows them to be logged in to an account, to retrieve the file specified.  You may also set an expiration of when the URL will automatically be deleted and no longer valid.</item>
+	<item name="$VFS_linking_description_text">VFS linking allows you to link other user's virtual file systems into this user.  This means when the user logs in, they will see and have access to the other user's virtual file system merged with their own.  You can use this to have a \"master\" user with some default folders you want every user to have access to, but still make every user have their own individual VFS items as well.</item>
+	<web_loc_ok>OK</web_loc_ok>
+	<web_loc_show_dot_items>Show '.' Items</web_loc_show_dot_items>
+	<web_loc_hide_dot_items>Hide '.' Items</web_loc_hide_dot_items>
+	<item name="WebInterface Upload Form:">WebInterface Upload Form:</item>
+	<item name="Do not allow login if user is not using encryption.">Do not allow login if user is not using encryption.</item>
+	<item name="CrushFTP Run">CrushFTP Run</item>
+	<seconds>seconds</seconds>
+	<item name="Timezone fofset from yourself if the user is using a bad FTP client to set file times.">Timezone fofset from yourself if the user is using a bad FTP client to set file times.</item>
+	<item name="Zip applications">Zip applications</item>
+	<item name="Default privs :">Default privs :</item>
+	<item name="Overwrite?">Overwrite?</item>
+	<item name="Enter a name for this form:">Enter a name for this form:</item>
+	<item name="WebInterface Message Form:">WebInterface Message Form:</item>
+	<item name="Listing of when these settings take effect.  ctr-a to select all.">Listing of when these settings take effect.  ctr-a to select all.</item>
+	<item name="Enter width for this entry in characters:">Enter width for this entry in characters:</item>
+	<item name="Minimum Download Speed">Minimum Download Speed</item>
+	<item name="User Banned">User Banned</item>
+	<item name="Deletes the account after the specified days are up.">Deletes the account after the specified days are up.</item>
+	<item name="You are in currently in position">You are in currently in position</item>
+	<item name="Create new virtual directory.">Create new virtual directory.</item>
+	<About>About</About>
+	<item name="Use http://serverIP/ to access.">Use http://serverIP/ to access.</item>
+	<item name="Email:(optional)">Email:(optional)</item>
+	<item name="IP used for Passive :">IP used for Passive :</item>
+	<item name="Please enter the text:">Please enter the text:</item>
+	<OK>OK</OK>
+	<item name="Max Download Amount Per Month">Max Download Amount Per Month</item>
+	<day>day</day>
+	<web_loc_modified>modified</web_loc_modified>
+	<item name="copy this users value (one time).">copy this users value (one time).</item>
+	<command>command</command>
+	<item name="Name of Current File">Name of Current File</item>
+	<item name="User Kicked">User Kicked</item>
+	<connects>connects</connects>
+	<item name="Unix style owner of files CrushFTP generates (prefs.xml, stats.xml, etc.)">Unix style owner of files CrushFTP generates (prefs.xml, stats.xml, etc.)</item>
+	<item name="Beep when users connect?">Beep when users connect?</item>
+	<item name="Header Text Align">Header Text Align</item>
+	<item name="Last Login">Last Login</item>
+	<item name="Create new user.">Create new user.</item>
+	<item name="Never received response during connect to server!">Never received response during connect to server!</item>
+	<item name="%RETR-queue_full%">Server download queue is full.  Try again later.</item>
+	<item name="Pick Certificate">Pick Certificate</item>
+	<item name="It is a WYSIWYG.  Select an item, and change the">It is a WYSIWYG.  Select an item, and change the</item>
+	<item name="%HELP-end%">End HELP command.</item>
+	<item name="permissions the user will have on the item.">permissions the user will have on the item.</item>
+	<item name="Timer for how long they are banned. (0 = permanent ban)">Timer for how long they are banned. (0 = permanent ban)</item>
+	<item name="Protects against the FTP bounce attack.  If enabled, port commands cannot connect to reserved ports.">Protects against the FTP bounce attack.  If enabled, port commands cannot connect to reserved ports.</item>
+	<item name="Zip directories">Zip directories</item>
+	<item name="Implicit SSL FTP (FTP://)">Implicit SSL FTP (FTP://)</item>
+	<Buttons>Buttons</Buttons>
+	<item name="Registration Code">Registration Code</item>
+	<Delete>Delete</Delete>
+	<item name="Enter OS X group name :">Enter OS X group name :</item>
+	<Idle>Idle</Idle>
+	<item name="Open Preferences...">Open Preferences...</item>
+	<item name="If an item is not in this list, the user will">If an item is not in this list, the user will</item>
+	<item name="Ignore server's max user setting and always allow login?">Ignore server's max user setting and always allow login?</item>
+	<item name="Show Dates">Show Dates</item>
+	<Synchronizing...>Synchronizing...</Synchronizing...>
+	<Tues>Tues</Tues>
+	<item name="ZIP : Changes dir listings to be .zips">ZIP : Changes dir listings to be .zips</item>
+	<item name="Disable Name Column">Disable Name Column</item>
+	<REMOTE>REMOTE</REMOTE>
+	<item name="schedule's name">schedule's name</item>
+	<item name="%already_logged_in%">You are already logged in.  You must disconnect first.</item>
+	<item name="Last 30 Days">Last 30 Days</item>
+	<item name="Send Email">Send Email</item>
+	<year>year</year>
+	<item name="Directory info for item.">Directory info for item.</item>
+	<item name="%max_simultaneous_connections%">User access not allowed.  Max simultaneous user limit reached.</item>
+	<item name="Account Expires :">Account Expires :</item>
+	<item name="Current Sessions">Current Sessions</item>
+	<item name="%SITE_PASS-bad%">Password verify failed!  Passwords did not match.  Please start over, and try again.</item>
+	<Kind>Kind</Kind>
+	<item name="Upload Queueing?">Upload Queueing?</item>
+	<item name="Remote Administration">Remote Administration</item>
+	<item name="CrushFTP Server">CrushFTP Server</item>
+	<item name="Report filename">Report filename</item>
+	<item name="Default permissions for uploaded files.">Default permissions for uploaded files.</item>
+	<item name="Footer Background Color">Footer Background Color</item>
+	<item name="Temporary Ban">Temporary Ban</item>
+	<item name="Ex...with a max of 1, if a user logs in again, their previous session is kicked.">Ex...with a max of 1, if a user logs in again, their previous session is kicked.</item>
+	<item name="%UTIME-error%">UTIME failed.</item>
+	<item name="Notes about this user (these are only for your reference and are not shared with the user):">Notes about this user (these are only for your reference and are not shared with the user):</item>
+	<item name="Enter a file name.">Enter a file name.</item>
+	<item name="File Size">File Size</item>
+	<Settings>Settings</Settings>
+	<item name="Browser Rendering">Browser Rendering</item>
+	<item name="Maximum simulatneous connected users allowed at any time.">Maximum simulatneous connected users allowed at any time.</item>
+	<item name="Enter e-mail for password.">Enter e-mail for password.</item>
+	<item name="Close and abort changes.">Close and abort changes.</item>
+	<item name="are idle for 60 seconds.">are idle for 60 seconds.</item>
+	<item name="(in minutes, 0=infinite)">(in minutes, 0=infinite)</item>
+	<item name="Company Name :">Company Name :</item>
+	<item name="Max:">Max:</item>
+	<item name="Can resume downloads/uploads.">Can resume downloads/uploads.</item>
+	<item name="CrushFTP Updates">CrushFTP Updates</item>
+	<item name="No report configured">No report configured</item>
+	<web_loc_finished>Finished</web_loc_finished>
+	<item name="%STOR-speed%">Upload File Size:%user_file_length% bytes @ %user_overall_transfer_speed%K/sec.</item>
+	<web_loc_show_hide_dot_items>Show / Hide Items that start with dot.</web_loc_show_hide_dot_items>
+	<item name="Do event immediately.">Do event immediately.</item>
+	<item name="%DELE%">"%user_the_command_data%" delete successful.</item>
+	<item name="Add a new filename filter.">Add a new filename filter.</item>
+	<item name="This IP will be used every time you startup CrushFTP.">This IP will be used every time you startup CrushFTP.</item>
+	<item name="List Background Color">List Background Color</item>
+	<item name="Custom Form Name">Custom Form Name</item>
+	<Encode>Encode</Encode>
+	<item name="Like as in 10 to 1 ratio, or 5 to 1 ratio.">Like as in 10 to 1 ratio, or 5 to 1 ratio.</item>
+	<item name="$EXECUTE_COMMAND_WARNING_TEXT">About to execute a command.  A terminal window will pop open.
+Wait for the key generation to complete.  Then close the window.</item>
+	<item name="Can see listing inside folder?">Can see listing inside folder?</item>
+	<item name="Can delete dirs.">Can delete dirs.</item>
+	<item name="Invalid Encryption type">Invalid Encryption type</item>
+	<item name="Max Simultaneous Logins:">Max Simultaneous Logins:</item>
+	<item name="%SIZE-wrong%">%user_the_command_data%: not a plain file.</item>
+	<item name="Please enter a port to listen on:">Please enter a port to listen on:</item>
+	<item name="CrushFTP Events!">CrushFTP Events!</item>
+	<item name="%ABOR%">ABOR command successful.</item>
+	<item name="Are you sure you want to delete this virtual item?">Are you sure you want to delete this virtual item?</item>
+	<item name="Logo Image">Logo Image</item>
+	<item name="Make all users in '$0' group:">Make all users in '$0' group:</item>
+	<item name="Add Entry">Add Entry</item>
+	<item name="%CHGRP-error%">CHGRP failed.</item>
+	<item name="supported network protocols">supported network protocols</item>
+	<Connections>Connections</Connections>
+	<Before>Before</Before>
+	<web_loc_file>file</web_loc_file>
+	<item name="Edit an IP restriction.">Edit an IP restriction.</item>
+	<Wed>Wed</Wed>
+	<item name="Path Text Color">Path Text Color</item>
+	<item name="Duplicate Selected User...">Duplicate Selected User...</item>
+	<Weekly>Weekly</Weekly>
+	<item name="KICK and BAN failed">KICK and BAN failed</item>
+	<item name="Footer Text Align">Footer Text Align</item>
+	<item name="Redirect to HTTPS:// server item.">Redirect to HTTPS:// server item.</item>
+	<web_loc_enter_download_zip_filename>Enter a name for the downloaded zip file:</web_loc_enter_download_zip_filename>
+	<item name="Available Customizations">Available Customizations</item>
+	<item name="CrushFTP User IP Insert">CrushFTP User IP Insert</item>
+	<Setup>Setup</Setup>
+	<month>month</month>
+	<item name="Maximum outgoing speed that the server will consume.  If it exceeds this, it will pause until the average speed falls below.">Maximum outgoing speed that the server will consume.  If it exceeds this, it will pause until the average speed falls below.</item>
+	<item name="%STOR-sfv_verified%">CRC32 verified sucessfully from .sfv file!</item>
+	<item name="Close and save changes.">Close and save changes.</item>
+	<item name="Location of the current SSL certificate being used.">Location of the current SSL certificate being used.</item>
+	<item name="Welcome message to be tacked on to the server message when the user logs in.">Welcome message to be tacked on to the server message when the user logs in.</item>
+	<item name="%SITE_VERSION%">VERSION: Displays the version of the server.</item>
+	<item name="Enter 2 character state code.">Enter 2 character state code.</item>
+	<item name="Enter OS X permissions :">Enter OS X permissions :</item>
+	<item name="Time Remaining">Time Remaining</item>
+	<item name="Maximum users with this username allowed in at one time.  minus one disables, and zero is infinite.">Maximum users with this username allowed in at one time.  minus one disables, and zero is infinite.</item>
+	<item name="Please note!">Please note!</item>
+	<item name="Leave blank for all users.">Leave blank for all users.</item>
+	<web_loc_delete_this_file>Delete this file?</web_loc_delete_this_file>
+	<item name="Have you setup a certificate in the CrushFTP advanced prefs under the SSL tab?">Have you setup a certificate in the CrushFTP advanced prefs under the SSL tab?</item>
+	<item name="Allow connections on this day?">Allow connections on this day?</item>
+	<item name="Invalid Name, Email or Code!">Invalid Name, Email or Code!</item>
+	<item name="Alias for this key.">Alias for this key.</item>
+	<web_loc_delete_folders>You have selected to delete one or more folders.%0D%0AThe folder and its contents will be deleted permanently!%0D%0A%0D%0AAre you sure you want to delete these folders?</web_loc_delete_folders>
+	<item name="%RETR-bad%">Access not allowed.</item>
+	<item name="Enter starting value for this entry:">Enter starting value for this entry:</item>
+	<item name="%CONNECT%">CrushFTP Server Ready.</item>
+	<item name="Save  stats / history to disk interval in minutes:">Save  stats / history to disk interval in minutes:</item>
+	<item name="Check for Update">Check for Update</item>
+	<item name="CrushFTP Filters!">CrushFTP Filters!</item>
+	<item name="%RETR-wrong%">%user_the_command_data%: not a plain file.</item>
+	<item name="Leave blank for no expiration.">Leave blank for no expiration.</item>
+	<item name="More compatible.">More compatible.</item>
+	<item name="WebInterface Commands">WebInterface Commands</item>
+	<item name="Button Background Color">Button Background Color</item>
+	<item name="You can not use a pass key.  Leave it blank and press enter.  When prompted if you are sure, enter yes.">You can not use a pass key.  Leave it blank and press enter.  When prompted if you are sure, enter yes.</item>
+	<item name="Auto IP lookup failure (could not reach server, and could not detect local IP)!">Auto IP lookup failure (could not reach server, and could not detect local IP)!</item>
+	<File>File</File>
+	<item name="Registration Name">Registration Name</item>
+	<Register...>Register...</Register...>
+	<IP>IP</IP>
+	<Misc>Misc</Misc>
+	<WROTE>WROTE</WROTE>
+	<item name="Events (Emails/Plugins)">Events (Emails/Plugins)</item>
+	<item name="%CHOWN-good%">CHOWN successful.</item>
+	<item name="Footer Text">Footer Text</item>
+	<item name="%MACB-enabled%">MacBinary mode is now enabled.</item>
+	<item name="%CHOWN-error%">CHOWN failed.</item>
+	<item name="Max Download Amount Per Day">Max Download Amount Per Day</item>
+	<item name="(Rename) Starts With">(Rename) Starts With</item>
+	<item name="User Activity for">User Activity for</item>
+	<item name="%MKD%">"%user_the_command_data%" directory created.</item>
+	<Mon>Mon</Mon>
+	<item name="%TYPE-binary%">Command ok : Binary type selected.</item>
+	<item name="Name Column Text">Name Column Text</item>
+	<item name="Hide Splash Screen?">Hide Splash Screen?</item>
+	<item name="Button Background Image">Button Background Image</item>
+	<item name="Days of the week users are allowed to connect :">Days of the week users are allowed to connect :</item>
+	<item name="Disable partial downloads?">Disable partial downloads?</item>
+	<item name="Example for Download">Example for Download</item>
+	<item name="MacBinary Decoding Failed">MacBinary Decoding Failed</item>
+	<item name="Footer Text Style">Footer Text Style</item>
+	<Options>Options</Options>
+	<web_loc_form_required_entry_missing>A required entry has not been filled out.%0D%0A%0D%0APlease fill out all required items before clicking submit.</web_loc_form_required_entry_missing>
+	<item name="Denied Connections">Denied Connections</item>
+	<item name="%PORT-fxp%">PORT command not allowed. Connecting to a remote IP (%user_port_remote_ip%) is not allowed.&lt;SPEAK&gt;%user_name% tried an apparent F X P transfer.&lt;/SPEAK&gt;</item>
+	<item name="to be clear, while making other account require encryption.)">to be clear, while making other account require encryption.)</item>
+	<item name="Edit Download Bytes">Edit Download Bytes</item>
+	<item name="Move Entry Up">Move Entry Up</item>
+	<Error>Error</Error>
+	<item name="Separate multiple with commas.  Leave blank for all.">Separate multiple with commas.  Leave blank for all.</item>
+	<Port>Port</Port>
+	<item name="The 'keypw' for the certificate.">The 'keypw' for the certificate.</item>
+	<item name="Choose the type you are importing">Choose the type you are importing</item>
+	<item name="%MDTM-wrong%">%user_the_command_data%: not a plain file.</item>
+	<item name="Control connection closed">Control connection closed</item>
+	<item name="Start All Servers">Start All Servers</item>
+	<item name="Accepting connection from">Accepting connection from</item>
+	<item name="Changes were made...do you want to save changes?">Changes were made...do you want to save changes?</item>
+	<item name="Make Dir">Make Dir</item>
+	<item name="%RMD-not_found%">"%user_the_command_data%" not found.</item>
+	<item name="Explicit SSLv3 (FTPS)">Explicit SSLv3 (FTPS)</item>
+	<item name="%RETR-not_found%">"%user_the_command_data%" not found.</item>
+	<item name="Read access for file/dir.">Read access for file/dir.</item>
+	<item name="Delete user.">Delete user.</item>
+	<item name="%DELE-not found%">File not found.</item>
+	<item name="You are up to date!">You are up to date!</item>
+	<item name="Changing to secure mode...">Changing to secure mode...</item>
+	<web_loc_bigger_than>bigger than</web_loc_bigger_than>
+	<item name="to 1">to 1</item>
+	<item name="Gets saved to users.dat file so next time the log in it still exists.">Gets saved to users.dat file so next time the log in it still exists.</item>
+	<item name="Server Window Options">Server Window Options</item>
+	<item name="Delete this server.">Delete this server.</item>
+	<item name="CrushFTP IP Insert">CrushFTP IP Insert</item>
+	<item name="Max Server Incoming Speed:">Max Server Incoming Speed:</item>
+	<item name="(0 = no limit)">(0 = no limit)</item>
+	<Example>Example</Example>
+	<item name="Make Invisible">Make Invisible</item>
+	<item name="%STAT-bad%">Access not allowed.</item>
+	<item name="Transfer failed!">Transfer failed!</item>
+	<item name="Log Date / Time Format :">Log Date / Time Format :</item>
+	<infinite>infinite</infinite>
+	<item name="Timezone Offset">Timezone Offset</item>
+	<item name="%RNTO%">File renamed OK.</item>
+	<item name="Last 365 Days">Last 365 Days</item>
+	<item name="Leave blank for no quota.">Leave blank for no quota.</item>
+	<item name="Save stats to disk every so often.&#x9;Otherwise they could be lost in a crash.">Save stats to disk every so often.	Otherwise they could be lost in a crash.</item>
+	<item name="General Settings">General Settings</item>
+	<item name="%SITE_QUIT%">QUIT: Quits the server AFTER the user who issued the command disconnects.</item>
+	<item name="FROM:">FROM:</item>
+	<item name="(This Server)">(This Server)</item>
+	<item name="Test Schedule">Test Schedule</item>
+	<item name="All Variables Unformatted">All Variables Unformatted</item>
+	<Available>Available</Available>
+	<item name="If this is enabled FXP transfers will fail, but the server will be more secure.">If this is enabled FXP transfers will fail, but the server will be more secure.</item>
+	<item name="Example for Upload">Example for Upload</item>
+	<item name="%MACB-disabled%">MacBinary mode is now disabled.</item>
+	<item name="Create New User...">Create New User...</item>
+	<web_loc_confirm_new_password>Confirm New Password :</web_loc_confirm_new_password>
+	<item name="%CWD-not found%">"%user_current_dir%": No such file or directory.</item>
+	<item name="Track how many unique IPs with logins.">Track how many unique IPs with logins.</item>
+	<item name="(Server's files) to here.">(Server's files) to here.</item>
+	<item name="K/sec">K/sec</item>
+	<Download>Download</Download>
+	<item name="%MODE%">Unimplemented MODE type.</item>
+	<item name="(K/sec, 0=infinite)">(K/sec, 0=infinite)</item>
+	<item name="Password:">Password:</item>
+	<item name="MacBinary on by default?">MacBinary on by default?</item>
+	<item name="PROT command OK. Using">PROT command OK. Using</item>
+	<item name="%PORT%">PORT command successful. %user_port_remote_ip%:%user_port_remote_port%.</item>
+	<FAILED>FAILED</FAILED>
+	<Pick>Pick</Pick>
+	<item name="%RMD-not_empty%">"%user_the_command_data%" not empty.</item>
+	<item name="Leave blank unless you know what this is for...see my training video on this.">Leave blank unless you know what this is for...see my training video on this.</item>
+	<item name="Password Revealed:">Password Revealed:</item>
+	<item name="download from any dir.">download from any dir.</item>
+	<Rename>Rename</Rename>
+	<item name="If this is enabled, local automatic remote admin login will be disabled (for use when being run as a service.)">If this is enabled, local automatic remote admin login will be disabled (for use when being run as a service.)</item>
+	<item name="Max Server Outgoing Speed:">Max Server Outgoing Speed:</item>
+	<item name="Double Click To Edit Format">Double Click To Edit Format</item>
+	<item name="downloads allowed with a maximum queue of size">downloads allowed with a maximum queue of size</item>
+	<item name="%RETR-max download will be exceeded%">WARNING!!! Maximum download will be exceeded! (partial downloads are off)</item>
+	<item name="KICK failed">KICK failed</item>
+	<item name="Default 'user' to set owner to:">Default 'user' to set owner to:</item>
+	<item name="Generate Temp Key">Generate Temp Key</item>
+	<item name="Delete Selected Item">Delete Selected Item</item>
+	<item name="%time_restricted%">User access not allowed.  The current time is not within the servers time restrictions. Please try again later.</item>
+	<item name="Always Encode?">Always Encode?</item>
+	<web_loc_overwrite_existing_file>Overwite existing file:</web_loc_overwrite_existing_file>
+	<item name="Login info for remote server.">Login info for remote server.</item>
+	<item name="The file is placed in the 'conf' directory and is named 'server_host_key'.">The file is placed in the 'conf' directory and is named 'server_host_key'.</item>
+	<item name="Security Exception!">Security Exception!</item>
+	<Rows>Rows</Rows>
+	<Loading...>Loading...</Loading...>
+	<item name="%STAT-start%">status of %user_the_command_data%:</item>
+	<Cancel>Cancel</Cancel>
+	<item name="Changing to ADMIN mode...">Changing to ADMIN mode...</item>
+	<Alert>Alert</Alert>
+	<item name="Attempting to connect to a remote instance">Attempting to connect to a remote instance</item>
+	<item name="Users &amp; Groups">Users &amp; Groups</item>
+	<item name="Max size before rolling:">Max size before rolling:</item>
+	<item name="%LIST-start%">Opening data connection for file list.</item>
+	<item name="Pick A Backup">Pick A Backup</item>
+	<item name="Number of seconds that the connection attempts must be made in.">Number of seconds that the connection attempts must be made in.</item>
+	<item name="You can create multiple instances. (You can pick one to use in the User Manager):">You can create multiple instances. (You can pick one to use in the User Manager):</item>
+	<item name="Days :">Days :</item>
+	<Depth>Depth</Depth>
+	<Sun>Sun</Sun>
+	<item name="%CDUP%">"%user_current_dir%" CWD command successful.</item>
+	<item name="Required?">Required?</item>
+	<Kick>Kick</Kick>
+	<item name="Show Paths">Show Paths</item>
+	<item name="Please pick your group data file.">Please pick your group data file.</item>
+	<item name="You have been waiting">You have been waiting</item>
+	<web_loc_quota_space>Quota Space Availabe :</web_loc_quota_space>
+	<web_loc_folder>folder</web_loc_folder>
+	<item name="KICKED and BANNED">KICKED and BANNED</item>
+	<item name="%max_simultaneous_connections_ip%">User access not allowed.  Max simultaneous users from your IP.</item>
+	<item name="Registration Email">Registration Email</item>
+	<item name="Import ProFTPD Groups...">Import ProFTPD Groups...</item>
+	<Cut>Cut</Cut>
+	<item name="Server Started">Server Started</item>
+	<item name="Manage Servers...">Manage Servers...</item>
+	<item name="You can also drag and drop from the left side">You can also drag and drop from the left side</item>
+	<web_loc_starts_with>starts with</web_loc_starts_with>
+	<item name="Action:">Action:</item>
+	<item name="Log File Options">Log File Options</item>
+	<item name="Link an email event from another user. (Not a copy, but rather a shortcut / alias.)">Link an email event from another user. (Not a copy, but rather a shortcut / alias.)</item>
+	<item name="Create new remote item.">Create new remote item.</item>
+	<item name="Failed.  Connection failed to establish data channel.">Failed.  Connection failed to establish data channel.</item>
+	<Sent>Sent</Sent>
+	<Banned>Banned</Banned>
+	<item name="Big Text Field">Big Text Field</item>
+	<item name="%UTIME-good%">UTIME successful.</item>
+	<item name="CrushFTP Preferences">CrushFTP Preferences</item>
+	<item name="Stop Selected Server">Stop Selected Server</item>
+	<item name="Key is valid for how many days?">Key is valid for how many days?</item>
+	<item name="Edit Selected Login Page">Edit Selected Login Page</item>
+	<item name="$INSTALL_SERVICE_WINDOWS_TEXT">Service installed and started.
+Use the 'Services' control panel to control it. (In Control Panels : Administrative Tools.)
+It will start before you have even logged into the computer for the first time.
+It will be listed as 'CrushFTPService.exe' if you look for it in running processes.
+If you move the location of the CrushFTP folder, you must reinstall the service.
+
+CrushFTP will now quit.  Please re-open it.</item>
+	<item name="Server Rendering">Server Rendering</item>
+	<item name="Always encode this file on transfers.">Always encode this file on transfers.</item>
+	<Monthly>Monthly</Monthly>
+	<item name="Remove this restriction.">Remove this restriction.</item>
+	<item name="Report written to">Report written to</item>
+	<item name="Track how many login date &amp; times per user:">Track how many login date &amp; times per user:</item>
+	<web_loc_delete_selected_items_permanently>Delete selected files permanently?</web_loc_delete_selected_items_permanently>
+	<item name="Export to .CSV">Export to .CSV</item>
+	<item name="%STOR-sfv_file_must_be_first_upload%">You must first upload a .sfv file before uploading data files. (The file you attemtped does not have a coresponding .sfv file.)</item>
+	<item name="Add Event">Add Event</item>
+	<Username>Username</Username>
+	<item name="Setting is not inherited from another user.">Setting is not inherited from another user.</item>
+	<item name="Enter keypass (VISIBLE ON SCREEN!!!).">Enter keypass (VISIBLE ON SCREEN!!!).</item>
+	<item name="Port server is listening on.">Port server is listening on.</item>
+	<Preview>Preview</Preview>
+	<item name="Virtual Rename">Virtual Rename</item>
+	<item name="%MACB-bad%">MacBinary mode is disabled. (Not allowed.)</item>
+	<item name="Link VFS...">Link VFS...</item>
+	<item name="Maximum incoming speed that the server will consume.&#x9;If it exceeds this, it will pause until the average speed falls below.">Maximum incoming speed that the server will consume.	If it exceeds this, it will pause until the average speed falls below.</item>
+	<item name="%PORT-fail_question%">Could not reach you.  Are you behind a firewall or router?  (Try using PASV mode to connect.)</item>
+	<Paste>Paste</Paste>
+	<Ban>Ban</Ban>
+	<item name="%RNTO-error%">File rename error. (bad path?  in use?  locked?)</item>
+	<Granted>Granted</Granted>
+	<item name="In K/sec.  Zero means infinite.">In K/sec.  Zero means infinite.</item>
+	<item name="Update?">Update?</item>
+	<item name="Enter city name.">Enter city name.</item>
+	<web_loc_required_entry_not_filled_out>A required entry has not been filled out.%0D%0A%0D%0APlease fill out all required items before clicking upload.</web_loc_required_entry_not_filled_out>
+	<item name="Hammering Command Settings :">Hammering Command Settings :</item>
+	<item name="Popup Background Color">Popup Background Color</item>
+	<item name="Track how many different downloaded files per username:">Track how many different downloaded files per username:</item>
+	<item name="(Rename) Contains">(Rename) Contains</item>
+	<item name="Key Password :">Key Password :</item>
+	<item name="%RETR-max download will be exceeded abort%">WARNING!!! Maximum download will be exceeded! (partial downloads are off)</item>
+	<item name="%welcome_message%">Welcome to CrushFTP4!</item>
+	<item name="Date / Time">Date / Time</item>
+	<item name="End Date">End Date</item>
+	<item name="CC:">CC:</item>
+	<item name="Please set the stopping IP:">Please set the stopping IP:</item>
+	<item name="$LINK_WEB_USERS_TEXT">This allows you to link this user to other users.  So you make a change to one user, and all users who are linked to them will reflect the changes.  You can link to multiple users in which case it builds the overall customizations / buttons from each user in the order that they were linked.  Inheritance trails will not be followed however if you specify a user who also is linking to another user.</item>
+	<item name="Import Rumpus Users...">Import Rumpus Users...</item>
+	<item name="Max Global Server Connections:">Max Global Server Connections:</item>
+	<item name="Command ignored (bad format!)">Command ignored (bad format!)</item>
+	<Servers>Servers</Servers>
+	<item name="%PASS%">Password OK.  Connected.</item>
+	<item name="Require encryption?">Require encryption?</item>
+	<item name="Web Access (HTTP://) (This is also WebDAV.)">Web Access (HTTP://) (This is also WebDAV.)</item>
+	<item name="Edit Credits">Edit Credits</item>
+	<item name="%CHGRP-bad%">Access Denied.&lt;SPEAK&gt;%user_name% failed to change file permissions on a file.&lt;/SPEAK&gt;</item>
+	<item name="Only if they">Only if they</item>
+	<item name="%TYPE-ascii%">Command ok : ASCII type selected.</item>
+	<item name="First user with same name, same IP, was autokicked.">First user with same name, same IP, was autokicked.</item>
+	<item name="$INVALID_REMOTE_ADMIN_USER_PASS_TEXT">Invalid username or password.
+
+
+(If this happened after you installed the startup daemon,
+you may want to launch
+CrushFTP4 again and then go remove the startup daemon, and reinstall it.</item>
+	<item name="%SITE_QUIT-good%">Server is quiting after you logout!!!</item>
+	<item name="Enter a User Name :">Enter a User Name :</item>
+	<item name="Enter HTML color value:">Enter HTML color value:</item>
+	<item name="Start Selected Server">Start Selected Server</item>
+	<item name="Test Certificate">Test Certificate</item>
+	<item name="Date Format Text (MM=month, mm=minute)">Date Format Text (MM=month, mm=minute)</item>
+	<item name="Extensions that open in new window">Extensions that open in new window</item>
+	<item name="Default group for uploaded files.">Default group for uploaded files.</item>
+	<item name="%web_auth_site_name%">CrushFTP Server Version 4</item>
+	<item name="Last 7 Days">Last 7 Days</item>
+	<Banning>Banning</Banning>
+	<item name="%user_name% has downloaded %user_session_download_count% files.">%user_name% has downloaded %user_session_download_count% files.</item>
+	<item name="This command was just executed:">This command was just executed:</item>
+	<item name="(-1=disable, 0=infinite)">(-1=disable, 0=infinite)</item>
+	<item name="Connected Sessions">Connected Sessions</item>
+	<item name="STREAM FAILED">STREAM FAILED</item>
+	<item name="Pass:">Pass:</item>
+	<item name="SUBJECT:">SUBJECT:</item>
+	<item name="Is this entry required?">Is this entry required?</item>
+	<item name="List Text Style">List Text Style</item>
+	<web_loc_start_search>Start Search</web_loc_start_search>
+	<item name="%REST-error%">REST is not allowed on the particular file you are downloading.  Starting at position 0.</item>
+	<item name="Show IPs">Show IPs</item>
+	<item name="$EMAIL_DOWNLOAD_EXAMPLE_TEXT">%user_name% has downloaded %user_session_download_count% files.
+
+The following files were downloaded in this session:
+
+&lt;LINE&gt;%user_time% %the_file_path%%the_file_name% Total Size:%the_file_size_formatted% @ %the_file_speed% k/sec&lt;/LINE&gt;</item>
+	<item name="Listing of commands user issued...">Listing of commands user issued...</item>
+	<item name="FTP Access (FTP://)">FTP Access (FTP://)</item>
+	<item name="Send Email and Run Plugin">Send Email and Run Plugin</item>
+	<item name="Speed of File Transfer">Speed of File Transfer</item>
+	<item name="IP / Servers">IP / Servers</item>
+	<item name="(Only applies to FTPS since FTPS can change from clear text, to encryption after">(Only applies to FTPS since FTPS can change from clear text, to encryption after</item>
+	<item name="Enter Registration Email">Enter Registration Email</item>
+	<item name="Zip files">Zip files</item>
+	<item name="%STOR-file_is_already_complete%">The file you attempted to upload already exists and appears to be complete.  You must delete the file first.&lt;SPEAK&gt;%user_name% tried to add to a verified file.&lt;/SPEAK&gt;</item>
+	<item name="%user_day_restricted%">User access not allowed.  You are not allowed to connect on this day of the week.  Please try again tommorow.</item>
+	<item name="%max_users_server%">User access not allowed.  Max user limit reached for server.</item>
+	<item name="Disable Modified Column">Disable Modified Column</item>
+	<item name="If you never want a password to be reversible,&lt;br&gt;and want added security, use this option.">If you never want a password to be reversible,&lt;br&gt;and want added security, use this option.</item>
+	<item name="CrushFTP IPs">CrushFTP IPs</item>
+	<item name="CrushFTP Quit">CrushFTP Quit</item>
+	<item name="IP server is using.">IP server is using.</item>
+	<item name="Rolling buffer amount (kilobytes in memory) for log window.">Rolling buffer amount (kilobytes in memory) for log window.</item>
+	<item name="Move Down">Move Down</item>
+	<item name="Window Title">Window Title</item>
+	<item name="Auto IP discovery refresh interval in minutes :">Auto IP discovery refresh interval in minutes :</item>
+	<item name="Drag and drop a file/folder from the OS to here.">Drag and drop a file/folder from the OS to here.</item>
+	<item name="upload in below dir.">upload in below dir.</item>
+	<Properties>Properties</Properties>
+	<item name="Duplicate Event">Duplicate Event</item>
+	<item name="Show Sizes">Show Sizes</item>
+	<item name="Download to Upload Ratio">Download to Upload Ratio</item>
+	<item name="Updating GUI...">Updating GUI...</item>
+	<item name="$0 is stopped, $1 users still connected.  Connections Processed : $2">$0 is stopped, $1 users still connected.  Connections Processed : $2</item>
+	<Unpaused>Unpaused</Unpaused>
+	<item name="PASS : Allows change password.">PASS : Allows change password.</item>
+	<item name="QUOTA EXCEEDED">QUOTA EXCEEDED</item>
+	<item name="You must issue the AUTH command to change to an encrypted session before you can attempt to login.">You must issue the AUTH command to change to an encrypted session before you can attempt to login.</item>
+	<Displaying...>Displaying...</Displaying...>
+	<item name="%HELP-start%">The following commands are recognized (* =&gt;'s unimplemented).&#xD;
+USER    PORT    STOR    MSAM*   RNTO    NLST    MKD     CDUP&#xD;
+PASS    PASV    APPE    MRSQ*   ABOR    SITE    XMKD    XCUP*&#xD;
+ACCT*   TYPE    MLFL*   MRCP*   DELE    SYST    RMD     STOU*&#xD;
+SMNT*   STRU*   MAIL*   ALLO*   CWD     STAT    XRMD*   SIZE&#xD;
+REIN*   MODE*   MSND*   REST    XCWD*   HELP    PWD     MDTM&#xD;
+QUIT    RETR    MSOM*   RNFR    LIST    NOOP    XPWD    SITE&#xD;
+AUTH    PBSZ    PROT</item>
+	<item name="Keep x backups of users in User Manager:">Keep x backups of users in User Manager:</item>
+	<item name="You may either use">You may either use</item>
+	<item name="%REST%">Restarting at %user_start_resume_loc%. Send STORE or RETRIEVE to initiate transfer.</item>
+	<Deny>Deny</Deny>
+	<Browse...>Browse...</Browse...>
+	<item name="%unknown_command%">Command not recognized or allowed.</item>
+	<item name="Click here to pick the folder to save the report into.">Click here to pick the folder to save the report into.</item>
+	<Checking>Checking</Checking>
+	<item name="Scroll With Activity?">Scroll With Activity?</item>
+	<item name="Use https://serverIP/ to access.">Use https://serverIP/ to access.</item>
+	<item name="Uploaded Bytes!">Uploaded Bytes!</item>
+	<item name="Max attempts (connections from same IP)">Max attempts (connections from same IP)</item>
+	<item name="%PWD%">"%user_current_dir%" PWD  command successful.</item>
+	<item name="Show URL Paths">Show URL Paths</item>
+	<item name="Create a new schedule based on the current setup information on the setup tab.">Create a new schedule based on the current setup information on the setup tab.</item>
+	<item name="Users / Groups...">Users / Groups...</item>
+	<item name="Extensions supported:">Extensions supported:</item>
+	<item name="BCC:">BCC:</item>
+	<item name="Are you sure you want to quit CrushFTP?">Are you sure you want to quit CrushFTP?</item>
+	<item name="(Upload) Contains">(Upload) Contains</item>
+	<item name="$CREATE_NEW_SCHEDULE_INSTRUCTIONS">To create a new schedule, first configure a report in the setup tab.  It would be a good idea to run the report as well and make sure its returning the information you want.&lt;br&gt; Then come back to this tab, and click 'Create New Schedule'.  This will take a snapshot of the current report setup.  Then you can configure the settings for the scheduled report on the right.</item>
+	<item name="Server sends files by always in BINARY mode instead of ASCII mode.">Server sends files by always in BINARY mode instead of ASCII mode.</item>
+	<item name="Preserves file types and creators of files that don't have resource forks.">Preserves file types and creators of files that don't have resource forks.</item>
+	<item name="Please set the starting IP:">Please set the starting IP:</item>
+	<item name="Ensures files uploaded are not in MacBinary form still.">Ensures files uploaded are not in MacBinary form still.</item>
+	<returned>returned</returned>
+	<downloads>downloads</downloads>
+	<Max>Max</Max>
+	<item name="command successful">command successful</item>
+	<item name="Move Entry Down">Move Entry Down</item>
+	<item name="Preview:">Preview:</item>
+	<item name="%SIZE-bad%">Access not allowed.</item>
+	<item name="Max Download Amount Per Session">Max Download Amount Per Session</item>
+	<item name="Import Users...">Import Users...</item>
+	<item name="%CHOWN-bad%">Access Denied.&lt;SPEAK&gt;%user_name% failed to change file permissions on a file.&lt;/SPEAK&gt;</item>
+	<item name="Inherit / Reset">Inherit / Reset</item>
+	<item name="User Pause / Resume">User Pause / Resume</item>
+	<Color>Color</Color>
+	<Daily>Daily</Daily>
+	<item name="Save changes.">Save changes.</item>
+	<item name="Certificate verified successfully!">Certificate verified successfully!</item>
+	<item name="%MKD-exists%">"%user_the_command_data%" already exists.</item>
+	<item name="(Listing) Contains">(Listing) Contains</item>
+	<item name="List Header Text Size">List Header Text Size</item>
+	<item name="User's Virtual File System (VFS) Files">User's Virtual File System (VFS) Files</item>
+	<item name="Edit Settings...">Edit Settings...</item>
+	<item name="Can delete files.">Can delete files.</item>
+	<item name="Upload Count">Upload Count</item>
+	<Received>Received</Received>
+	<item name="%RETR-CRC_bad%">The CRC32 for this download did not match the entry in its .sfv file!  Use this file with caution!</item>
+	<item name="of CrushFTP.  (See 'Manage Servers'.)">of CrushFTP.  (See 'Manage Servers'.)</item>
+	<item name="%RETR-start%">Opening %user_file_transfer_mode% mode data connection for %user_the_command_data% (%user_file_length% bytes).</item>
+	<item name="does not match web browser http://ip:port/ location">does not match web browser http://ip:port/ location</item>
+	<item name="Reports / History Settings">Reports / History Settings</item>
+	<item name="Stop Options">Stop Options</item>
+	<item name="Deny localhost automatic remote administration?">Deny localhost automatic remote administration?</item>
+	<item name="Trying auto remote administration in $0 seconds...">Trying auto remote administration in $0 seconds...</item>
+	<item name="Clear out the permanent ratio and have it start again.">Clear out the permanent ratio and have it start again.</item>
+	<item name="create a new dir and upload in below dir.">create a new dir and upload in below dir.</item>
+	<item name="Upload Button Start Text">Upload Button Start Text</item>
+	<item name="Reset Stats.">Reset Stats.</item>
+	<item name="%STOR-end%">Transfer complete.  CRC32=%user_sfv%</item>
+	<item name="TO:">TO:</item>
+	<item name="Enter the number of days from now until this account expires:">Enter the number of days from now until this account expires:</item>
+	<item name="Generate Server Host Key">Generate Server Host Key</item>
+	<Plugins>Plugins</Plugins>
+	<item name="WARNING!!! Maximum download amount last 30 days reached.">WARNING!!! Maximum download amount last 30 days reached.</item>
+	<item name="Announce server via Bonjour">Announce server via Bonjour</item>
+	<item name="City Name :">City Name :</item>
+	<item name="$EMAIL_UPLOAD_EXAMPLE_TEXT">Files have been uploaded!
+%web_upload_form%
+&lt;LINE&gt;%user_time% %the_file_path%%the_file_name% Total Size:%the_file_size_formatted% @ %the_file_speed% k/sec&lt;/LINE&gt;
+Please process these as soon as possible!</item>
+	<item name="%RNFR-bad%">Access not allowed.&lt;SPEAK&gt;%user_name% failed to rename a file.&lt;/SPEAK&gt;</item>
+	<item name="BANNED IP CONNECTION TERMINATED">BANNED IP CONNECTION TERMINATED</item>
+	<item name="Max Download Speed">Max Download Speed</item>
+	<item name="Max Upload Speed">Max Upload Speed</item>
+	<item name="Run Plugin">Run Plugin</item>
+	<item name="Quota space available">Quota space available</item>
+	<item name="Keystorepass :">Keystorepass :</item>
+	<item name="%server_font_height_adjust%">0</item>
+	<item name="Time/Date of Event">Time/Date of Event</item>
+	<web_loc_folder_name>Folder Name :</web_loc_folder_name>
+	<item name="Concurrent Users">Concurrent Users</item>
+	<item name="are idle for 30 seconds.">are idle for 30 seconds.</item>
+	<item name="Choose a user to link to">Choose a user to link to</item>
+	<item name="WARNING!!! Maximum download amount today reached.">WARNING!!! Maximum download amount today reached.</item>
+	<item name="Select a User to link to.">Select a User to link to.</item>
+	<item name="Last 60 Days">Last 60 Days</item>
+	<item name="If you have users that often want you to&lt;br&gt;lookup their password, use this option.">If you have users that often want you to&lt;br&gt;lookup their password, use this option.</item>
+	<web_loc_secs>secs</web_loc_secs>
+	<item name="Alias :">Alias :</item>
+	<item name="FTP Dir:">FTP Dir:</item>
+	<Fri>Fri</Fri>
+	<item name="$REPORT_FILE_EXISTS_MESSAGE_TEXT">File exists.  Please remove the file first.
+	
+(You have not enabled the option to overwrite an existing report.)</item>
+	<item name="Enter name for this entry:">Enter name for this entry:</item>
+	<item name="%MKD-bad%">Access not allowed.</item>
+	<web_loc_updating_account>Updating Account...</web_loc_updating_account>
+	<item name="Restore a user from backup...">Restore a user from backup...</item>
+	<item name="Starting and stopping port for PASV ports.">Starting and stopping port for PASV ports.</item>
+	<item name="%NOOP%">Command OK. (NOOP)</item>
+	<item name="%UTIME-bad%">Access Denied.</item>
+	<item name="Delete Dir">Delete Dir</item>
+	<item name="$DEFAULT_LOGO_MESSAGE_TEXT">You may set a default logo file to be used.  This file will be used as the default unless you override it with a custom setting on a per user basis.  This includes the logo that is displayed for the login page.&lt;br&gt; &lt;br&gt;Its important to set this here as just replacing the logo.gif file will get overwritten the next time you update.  Your logo file must be in the WebInterface/images/ directory for it to work.  Enter the name of your logo file below.  The default is 'logo.gif', but you should use a different name to prevent your logo from being overwritten.</item>
+	<item name="In Kilobytes.  Zero means infinite.">In Kilobytes.  Zero means infinite.</item>
+	<item name="$USER_FILE_LOCKED_TEXT">Failed to update user.  Is the 'users' folder locked?
+Is the 'user.xml' file for this user locked?</item>
+	<item name="%CHMOD-error%">CHMOD failed.</item>
+	<item name="%account_disabled%">User access not allowed.  This account is currently disabled.</item>
+	<item name="WebInterface Buttons">WebInterface Buttons</item>
+	<item name="Allow User to Connect on These Days">Allow User to Connect on These Days</item>
+	<item name="Java SimpleDateFormat for the log date and time.">Java SimpleDateFormat for the log date and time.</item>
+	<item name="Command History">Command History</item>
+	<item name="Reset Options">Reset Options</item>
+	<item name="Default group :">Default group :</item>
+	<lines>lines</lines>
+	<item name="Encryption using Explicit TLSv1 will be allowed.">Encryption using Explicit TLSv1 will be allowed.</item>
+	<item name="(Listing) Starts With">(Listing) Starts With</item>
+	<item name="SSL Cert Error">SSL Cert Error</item>
+	<item name="Show Files Transfered">Show Files Transfered</item>
+	<item name="DOT : Allows toggling hiding of items starting with '.'">DOT : Allows toggling hiding of items starting with '.'</item>
+	<item name="Only show zipped directories">Only show zipped directories</item>
+	<item name="Save Report">Save Report</item>
+	<item name="Use sftp://serverIP/ to access.">Use sftp://serverIP/ to access.</item>
+	<item name="State Code :">State Code :</item>
+	<item name="List Item Every Other Item Color">List Item Every Other Item Color</item>
+	<item name="Time Format Text (MM=month, mm=minute)">Time Format Text (MM=month, mm=minute)</item>
+	<item name="$REMOTE_ADMIN_MODE_REFRESH_MESSAGE_TEXT">When in remote admin mode, report data is not updated automatically.  Click the button below to ask the server for the current report data.</item>
+	<Accepting>Accepting</Accepting>
+	<item name="(this user)">(this user)</item>
+	<item name="%RNTO-bad_ext%">Cannot change file extension.</item>
+	<item name="attempts in">attempts in</item>
+	<item name="Pick A Server">Pick A Server</item>
+	<item name="IP Restrictions and Bans">IP Restrictions and Bans</item>
+	<item name="%RETR-streaming failed%">Streaming transfer failed.</item>
+	<item name="%RETR-max reached%">WARNING!!! Maximum download amount reached.  Download aborted.</item>
+	<item name="Denied.  Your connection has been terminated.">Denied.  Your connection has been terminated.</item>
+	<item name="You must first run a report.">You must first run a report.</item>
+	<web_loc_ends_with>ends with</web_loc_ends_with>
+	<item name="Show Files">Show Files</item>
+	<item name="Batch Action">Batch Action</item>
+	<item name="Default Character Encoding (FTP) :">Default Character Encoding (FTP) :</item>
+	<Copy>Copy</Copy>
+	<item name="Remove an IP restriction.">Remove an IP restriction.</item>
+	<item name="This requires clients to use encryption.">This requires clients to use encryption.</item>
+	<item name="Show Uploads">Show Uploads</item>
+	<item name="(0=infinite)">(0=infinite)</item>
+	<item name="Proceed?">Proceed?</item>
+	<item name="Directory the user will start in.  This is not a way to do security...a user can get around this.">Directory the user will start in.  This is not a way to do security...a user can get around this.</item>
+	<item name="Test the current certificate to verify the passwords are correct.">Test the current certificate to verify the passwords are correct.</item>
+	<item name="$DEFAULT_SETTINGS_WARNING_TEXT">This will wipe all settings in this window.
+This includes plugins, custom forms, server config, everything.</item>
+	<item name="to download CrushFTP updates.">to download CrushFTP updates.</item>
+	<item name="More Settings">More Settings</item>
+	<web_loc_smaller_than>smaller than</web_loc_smaller_than>
+	<item name="Server Items : (FTP / FTPS / SFTP / HTTP &amp; WebDAV / HTTPS &amp; WebDAV)">Server Items : (FTP / FTPS / SFTP / HTTP &amp; WebDAV / HTTPS &amp; WebDAV)</item>
+	<item name="Choose one">Choose one</item>
+	<item name="Size Column Text">Size Column Text</item>
+	<item name="The file must be in the WebInterface folder, or a sub-directory of it.">The file must be in the WebInterface folder, or a sub-directory of it.</item>
+	<item name="Item Count Text">Item Count Text</item>
+	<item name="Remove Selected Login Page">Remove Selected Login Page</item>
+	<item name="SMTP Server:">SMTP Server:</item>
+	<item name="%LIST-end%">Directory transfer complete.</item>
+	<item name="%SITE_USERS%">USERS: Listing of connected users...ecapsulated with single quotes.</item>
+	<minutes>minutes</minutes>
+	<item name="Button Font Color">Button Font Color</item>
+	<item name="File is immune to ratio settings.">File is immune to ratio settings.</item>
+	<item name="Determines whether the log is written to a file or not.">Determines whether the log is written to a file or not.</item>
+	<item name="$NOT_USE_IMPLICIT_SSL_TEXT">It is recommended that you not use Implicit SSL.
+Implicit SSL only listens for SSL connections.
+It is not the preferred method, and few clients support it.
+Are you sure you want to use it?</item>
+	<item name="months(s) on">months(s) on</item>
+	<item name="Check for update...">Check for update...</item>
+	<item name="Reset ALL Prefs to Default">Reset ALL Prefs to Default</item>
+	<item name="The 'keystorepw' for the certificate.">The 'keystorepw' for the certificate.</item>
+	<item name="Max logins from the same IP.  Like 2 logins per IP for an anonymous account.">Max logins from the same IP.  Like 2 logins per IP for an anonymous account.</item>
+	<item name="Download Queue Size:">Download Queue Size:</item>
+	<item name="Show Bytes">Show Bytes</item>
+	<WebInterface>WebInterface</WebInterface>
+	<item name="%day_restricted%">User access not allowed.  The server is not accepting connections on this day of the week.  Please try again tommorow.</item>
+	<item name="User Connected">User Connected</item>
+	<Successful>Successful</Successful>
+	<item name="You are in a queue">You are in a queue</item>
+	<item name="Delete?">Delete?</item>
+	<item name="None Active">None Active</item>
+	<item name="Footer Text Color">Footer Text Color</item>
+	<item name="OS X Configuration">OS X Configuration</item>
+	<item name="Import Serv-U Users...">Import Serv-U Users...</item>
+	<item name="Allow login even when the server is full.  Good for a search account, or a remote admin account.">Allow login even when the server is full.  Good for a search account, or a remote admin account.</item>
+	<item name="Recent Sessions">Recent Sessions</item>
+	<item name="*************************">****************************************************************************************</item>
+	<item name="Negotiation Failed.">Negotiation Failed.</item>
+	<item name="Disable Checkbox Column">Disable Checkbox Column</item>
+	<web_loc_new_password>New Password :</web_loc_new_password>
+	<Notes>Notes</Notes>
+	<item name="List Header Text Style">List Header Text Style</item>
+	<item name="Username:">Username:</item>
+	<item name="$EVENT_CONFIGURED_WRONG_TEXT">Please note!
+It appears that this event is not properly configured.
+Most events will have a '&lt;LINE&gt;text and %variables%&lt;/LINE&gt;'
+entry in the email body.  This event does not.
+This may be intentional, but if not, please see the
+'Variables / Templates' drop down menu above.  It has
+you examples on how to setup an event.</item>
+	<item name="$MIGRATE_USERS_MESSAGE_TEXT">Migrating All Users (for advanced users only)
+	
+	
+This allows you to do a batch update of all users who were pointed
+at one hard drive for their data folders to be pointed to another location.
+This is essentially a string replace on the path as defined in the user's
+VFS on the right side of the user manager.  You will be asked for the old
+location, and then asked for the new location.  For example, if you moved
+from a hard drive named 'iMacG3' to a new machine with the hard drive named
+'IntelMacPro', you could update all paths in one quick process.  Example:
+
+You would enter '/Volumes/iMacG3/' in the migrating 'from' location,
+and enter '/Volumes/IntelMacPro/' in the migrating 'to' location.
+
+
+CrushFTP will scan through all users, and update each VFS item to point
+to the new location.  It will do a replace if the 'from' location starts with
+the old location, and will make it start with the new value.</item>
+	<item name="$REMOTE_ADMIN_LOCATION_TEXT">CrushFTP remote admin needs a place
+to store temporary files.  These files will
+be deleted when you close the admin session
+window.  Please choose a location where
+this temporary folder will be created.</item>
+	<item name="No connection received on PASV ip:port that was specified in 20 seconds.">No connection received on PASV ip:port that was specified in 20 seconds.</item>
+	<item name="Auto Connect At Startup">Auto Connect At Startup</item>
+	<item name="%USER%">Username OK.  Need password.</item>
+	<item name="$UPDATED_OSX_SERVICE_TEXT">You have the CrushFTP service installed.
+When you click Yes, the service will be restarted.
+This must be done to finish the update.
+Any users who are connected will be disconnected.
+
+If you click No, you will need to either restart
+your computer, or remove the bootup service and reinstall it.</item>
+	<item name="Hide this in current listing.">Hide this in current listing.</item>
+	<item name="Permanent Ban">Permanent Ban</item>
+	<item name="data connection">data connection</item>
+	<item name="Max Login Time:">Max Login Time:</item>
+	<item name="Text Field">Text Field</item>
+	<After>After</After>
+	<item name="Number of seconds that the failed commands must be made in.">Number of seconds that the failed commands must be made in.</item>
+	<item name="Main Border Color">Main Border Color</item>
+	<item name="Quota: (MB)">Quota: (MB)</item>
+	<item name="$UPDATE_COMPLETE_FILES_IN_USE_TEXT">Some files were in use and cannot be updated until you close CrushFTP.
+Please close CrushFTP and run the '$0' file located in your CrushFTP folder.
+Just double click on it and it will run automatically.  Once finished you
+may re-open CrushFTP.</item>
+	<Permanent>Permanent</Permanent>
+	<item name="Server not configured for encryption.">Server not configured for encryption.</item>
+	<item name="(Listing) Ends With">(Listing) Ends With</item>
+	<item name="Path Text Size">Path Text Size</item>
+	<item name="Unix style group of files CrushFTP generates (prefs.xml, stats.xml, etc.)">Unix style group of files CrushFTP generates (prefs.xml, stats.xml, etc.)</item>
+	<item name="Tests the SMTP server to see if a message can be sent.">Tests the SMTP server to see if a message can be sent.</item>
+	<item name="Error message (if any)">Error message (if any)</item>
+	<Logging>Logging</Logging>
+	<item name="Ran Scheduled Report">Ran Scheduled Report</item>
+	<Reports>Reports</Reports>
+	<item name="Reset Server bytes in/out.">Reset Server bytes in/out.</item>
+	<Cols>Cols</Cols>
+	<item name="User:">User:</item>
+	<item name="when you right click on an item.">when you right click on an item.</item>
+	<item name="Item Properties">Item Properties</item>
+	<item name="%SYST%">UNIX Type: L8</item>
+	<item name="Download Queueing?">Download Queueing?</item>
+	<item name="WebInterface custom template file location:">WebInterface custom template file location:</item>
+	<item name="(Download) Ends With">(Download) Ends With</item>
+	<item name="Download Count">Download Count</item>
+	<item name="WARNING!!! Ratio reached.">WARNING!!! Ratio reached.</item>
+	<Every>Every</Every>
+	<item name="Server Stopped">Server Stopped</item>
+	<item name="PASV port in use or no connection received.  Server administrator should check server settings.">PASV port in use or no connection received.  Server administrator should check server settings.</item>
+	<item name="Always Decode?">Always Decode?</item>
+	<item name="%server_font_width_adjust%">0</item>
+	<item name="Check for New Versions">Check for New Versions</item>
+	<item name="Create New Schedule&lt;br&gt;(Take Snapshot)">Create New Schedule&lt;br&gt;(Take Snapshot)</item>
+	<item name="Delete Entry">Delete Entry</item>
+	<item name="Server Remote Admin Settings">Server Remote Admin Settings</item>
+	<item name="Reset EVERYTHING to the defaults.">Reset EVERYTHING to the defaults.</item>
+	<item name="(Rename) Ends With">(Rename) Ends With</item>
+	<item name="$CRUSHFTP_DEAUTHED_TEXT">CrushFTP has been deauthenticated.
+
+However, it will remain authenticated until the OS X authentication timeout has expired (about two minutes).</item>
+	<item name="Reset upload/download counter.">Reset upload/download counter.</item>
+	<item name="Test SMTP Server">Test SMTP Server</item>
+	<item name="ToolTip Text Color">ToolTip Text Color</item>
+	<item name="Delete Selected User...">Delete Selected User...</item>
+	<item name="SITE Commands">SITE Commands</item>
+	<item name="%STAT-not_found%">File not found!</item>
+	<minutes.>minutes.</minutes.>
+	<item name="The number of folders to scan down into">The number of folders to scan down into</item>
+	<web_loc_searching>Searching...</web_loc_searching>
+	<Password>Password</Password>
+	<item name="Access Denied">Access Denied</item>
+	<item name="Edit Users &amp; Groups...">Edit Users &amp; Groups...</item>
+	<bytes>bytes</bytes>
+	<item name="out of a queue of size">out of a queue of size</item>
+	<item name="%MDTM-bad%">Access not allowed.</item>
+	<Radio>Radio</Radio>
+	<item name="Button Hover Color">Button Hover Color</item>
+	<item name="Keep how many files :">Keep how many files :</item>
+	<item name="Certificate Location:">Certificate Location:</item>
+	<item name="FXP FAILED">FXP FAILED</item>
+	<item name="Web Administration">Web Administration</item>
+	<Save>Save</Save>
+	<item name="not found">not found</item>
+	<item name="%PORT-no_data_connection%">Could not build data connection to host (%user_port_remote_ip%:%user_port_remote_port% was unreachable).</item>
+	<item name="This is a SSL certificate.  It is used for HTTPS connections and FTPS.">This is a SSL certificate.  It is used for HTTPS connections and FTPS.</item>
+	<item name="Write access for dir.">Write access for dir.</item>
+	<item name="Enter OS X user name :">Enter OS X user name :</item>
+	<item name="the connection has been made.  You may allow some accounts like anonymous">the connection has been made.  You may allow some accounts like anonymous</item>
+	<Column>Column</Column>
+	<item name="$INVALID_REMOTE_ADMIN_USER_PASS_CANCEL_TEXT">Invalid username or password.
+
+
+(If this happened after you installed the startup daemon,
+you may want to click cancel next time you launch
+CrushFTP4 and then go remove the startup daemon, and reinstall it.</item>
+	<item name="WARNING!!! Maximum download amount reached.">WARNING!!! Maximum download amount reached.</item>
+	<item name="Import Mac OS X Users...">Import Mac OS X Users...</item>
+	<item name="Add a new server port to the list.  Then save and stop and start the server.">Add a new server port to the list.  Then save and stop and start the server.</item>
+	<item name="Add an IP restriction.">Add an IP restriction.</item>
+	<item name="disconnect all sessions.">disconnect all sessions.</item>
+	<item name="Enabled Customizations">Enabled Customizations</item>
+	<item name="Button Hover Image">Button Hover Image</item>
+	<item name="Encryption using Explicit SSLv3 will be allowed.">Encryption using Explicit SSLv3 will be allowed.</item>
+	<item name="Estimated wait is">Estimated wait is</item>
+	<item name="Max Logins Per Unique IP">Max Logins Per Unique IP</item>
+	<Schedule>Schedule</Schedule>
+	<item name="Account Enabled">Account Enabled</item>
+	<web_loc_before>before</web_loc_before>
+	<item name="Server Info">Server Info</item>
+	<item name="Add a new login page for a specific domain.">Add a new login page for a specific domain.</item>
+	<item name="CrushFTP IPs!">CrushFTP IPs!</item>
+	<item name="Path Background Color">Path Background Color</item>
+	<item name="Create Event...">Create Event...</item>
+	<item name="Your quota has been exceeded">Your quota has been exceeded</item>
+	<item name="FTP Aware Router / Firewall">FTP Aware Router / Firewall</item>
+	<item name="%CHGRP-good%">CHGRP successful.</item>
+	<item name="%STOR-sfv_check_failed%">The CRC32 in the .sfv file did not match the uploaded file.</item>
+	<item name="%RETR-fxp failed%">FXP transfer failed.</item>
+	<item name="Key Store password :">Key Store password :</item>
+	<item name="Comment: (HTML OK)">Comment: (HTML OK)</item>
+</Translations>
+

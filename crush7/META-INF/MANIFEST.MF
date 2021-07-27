@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Main-Class: CrushFTP
+Class-Path: 
+ plugins/lib/jdom.jar 
+ plugins/lib/bcmail-jdk15on.jar 
+ plugins/lib/bcprov-jdk15on.jar 
+ plugins/lib/bcpg-jdk15on.jar 
+ plugins/lib/bcpkix-jdk15on.jar 
+ plugins/lib/bcprov-jdk15on-lw.jar 
+ plugins/lib/bcpg-jdk15on-lw.jar 
+ plugins/lib/commons-logging.jar 
+ plugins/lib/log4j.jar 
+ plugins/lib/javax.mail.jar 
+ plugins/lib/maverick-legacy-client-no-common.jar 
+ plugins/lib/maverick-legacy-common.jar 
+ plugins/lib/maverick-legacy-server-no-common.jar 
+ plugins/lib/win_service.jar 
+ plugins/lib/derby.jar 
+ plugins/lib/pgplib.jar 
+ plugins/lib/commons-pool-1.5.4.jar 
+ plugins/lib/commons-compress.jar 
+ plugins/lib/gnu-crypto-2.0.1.jar 
+ plugins/lib/jradius-core-1.1.4.jar 
+ plugins/lib/jradius-dictionary-1.1.4.jar 
+ plugins/lib/jradius-extended-1.1.4.jar 
+ plugins/lib/log4j.jar 
+ plugins/lib/log4j-api.jar 
+ plugins/lib/syslog4j.jar 
+ plugins/lib/TomP2P-4.4.jar 
+ plugins/lib/slf4j-simple-1.5.8.jar 
+ plugins/lib/slf4j-api-1.5.8.jar 
+ plugins/lib/jcifs.jar 
+ 
+
